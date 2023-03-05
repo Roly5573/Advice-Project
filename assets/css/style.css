@@ -11,8 +11,10 @@ body {
 }
 
 .navbar {
-    display: inline;
-}
+    display: inline-block;
+    }
+
+
 
 
 
