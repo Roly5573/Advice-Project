@@ -20,6 +20,10 @@ body {
     padding-right: 0;
 }
 
+.navbar-nav {
+
+}
+
 .nav-item {
     font-size: smaller;
     font-weight: 700;
