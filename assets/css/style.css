@@ -15,8 +15,8 @@ nav {
   }
 
 .navbar-brand {
-    position: left;
-    width: 170px;
+  
+    width: 180px;
     left: 10px;
     margin-left: 0;
     margin-right: 10px;
@@ -30,6 +30,7 @@ nav {
     font-weight: 700;
     position: relative;
     padding-left: 0;
+    padding-right: ;
 }
     
 
