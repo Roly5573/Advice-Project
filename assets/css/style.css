@@ -10,6 +10,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+nav {
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
+  }
+
 .navbar-brand {
     position: left;
     width: 170px;
@@ -20,9 +24,6 @@ body {
     padding-right: 0;
 }
 
-.navbar-nav {
-
-}
 
 .nav-item {
     font-size: smaller;
