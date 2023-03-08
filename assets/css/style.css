@@ -53,7 +53,11 @@ nav {
   border-color:#C9D1E5;
 }
 
-
+section img{
+  background-image: url('assets/images/headerbackground.png');
+  max-width: 100%;
+  height: max-content;
+}
 
 
   
