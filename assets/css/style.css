@@ -57,6 +57,8 @@ section img{
   background-image: url('assets/images/headerbackground.png');
   max-width: 100%;
   height: max-content;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
