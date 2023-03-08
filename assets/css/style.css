@@ -59,6 +59,7 @@ section img{
   height: max-content;
   background-repeat: no-repeat;
   background-size: cover;
+  position: static;
 }
 
 
