@@ -15,15 +15,12 @@ nav {
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
   }
 
-  
-
-  .img-responsive {
+.img-responsive {
     height: 70px;
   }
 
 .navbar-brand {
     width: 180px;
-    
     left: 10px;
     margin-left: 0;
     margin-right: 10px;
@@ -39,7 +36,22 @@ nav {
     padding-left: 0;
     padding-right: 0;
 }
-    
+ 
+.navbar-toggler {
+  
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: box-shadow .15s ease-in-out; 
+}
+
+.navbar-light .navbar-toggler {
+  color: #004B88;
+  border-color:#C9D1E5;
+}
 
 
 
