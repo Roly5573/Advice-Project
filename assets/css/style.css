@@ -31,11 +31,10 @@ nav {
 
 
 .nav-item {
-    font-size: smaller;
+    font-size: 1.2rem;
     font-weight: 700;
-    position: relative;
-    padding-left: 0;
-    padding-right: 0;
+    
+    
 }
  
 .navbar-toggler {
