@@ -13,6 +13,7 @@ body {
 nav {
     
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
+    padding:0 5px 0 5px ;
   }
 
 .img-responsive {
@@ -31,7 +32,7 @@ nav {
 
 
 .nav-item {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 700;
     
     
@@ -53,15 +54,39 @@ nav {
   border-color:#C9D1E5;
 }
 
-section img{
-  background-image: url('assets/images/headerbackground.png');
+.container{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
   max-width: 100%;
   height: auto;
   margin-top: 100px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: static;
+
+  padding: 0 5px 30px 5px;  
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 
+
+hr{
+  height: 5px;
+  background-color: #1a097c;
+  border: 5px;
+}
+
+.message {
+  
+}
+
+.hornchurch img{
+  max-width: 100%;
+  padding: 30px 5px 30px 5px;
+}
   
