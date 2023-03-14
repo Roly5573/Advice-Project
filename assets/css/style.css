@@ -33,7 +33,7 @@ nav {
 
 .nav-item {
     font-size: 1.1rem;
-    font-weight: 700;
+    font-weight: 600;
     
     
 }
@@ -81,11 +81,14 @@ hr{
   border: 5px;
 }
 
-.message {
+
+.hornchurch img{
+  max-width: 100%;
+  padding: 30px 5px 30px 5px;
   
 }
 
-.hornchurch img{
+.hhill img{
   max-width: 100%;
   padding: 30px 5px 30px 5px;
 }
