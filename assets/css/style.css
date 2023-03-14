@@ -10,10 +10,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+
 nav {
-    
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
-    padding:0 5px 0 5px ;
+    padding:0 15px 0 15px ;
   }
 
 .img-responsive {
@@ -56,22 +56,12 @@ nav {
 
 .container{
   position: relative;
-  text-align: center;
-  color: white;
-  font-size: 3rem;
   max-width: 100%;
-  height: auto;
-  margin-top: 100px;
-
-  padding: 0 5px 30px 5px;  
+  height:auto;
+  padding: 150px 15px 30px 15px;  
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 
 
 
@@ -84,12 +74,12 @@ hr{
 
 .hornchurch img{
   max-width: 100%;
-  padding: 30px 5px 30px 5px;
+  padding: 30px 15px 30px 15px;
   
 }
 
 .hhill img{
   max-width: 100%;
-  padding: 30px 5px 30px 5px;
+  padding: 30px 15px 30px 15px;
 }
   
