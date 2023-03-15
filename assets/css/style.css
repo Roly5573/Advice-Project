@@ -33,7 +33,7 @@ nav {
 
 
 .nav-item {
-    font-size: 1rem;
+    font-size: .9rem;
     font-weight: 600;
     
     
@@ -55,16 +55,12 @@ nav {
   border-color:#C9D1E5;
 }
 
-.container{
+.hero{
   position: relative;
   max-width: 100%;
   height:auto;
   padding: 150px 15px 30px 15px;  
 }
-
-
-
-
 
 hr{
   height: 5px;
@@ -72,15 +68,8 @@ hr{
   border: 5px;
 }
 
-
-.hornchurch img{
-  max-width: 100%;
-  padding: 30px 15px 30px 15px;
-  
-}
-
-.hhill img{
-  max-width: 100%;
-  padding: 30px 15px 30px 15px;
+.card-title {
+  font-size: 1rem;
+  font-weight: bold;
 }
   
