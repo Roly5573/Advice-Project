@@ -6,6 +6,8 @@
     border: 0;
 }
 
+
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -15,6 +17,7 @@ body {
 nav {
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
     padding:0 0 0 15px ;
+    
     
   }
 
@@ -52,7 +55,7 @@ nav {
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
-  border-radius: 0.25rem;
+  border-radius: 0.5rem;
   transition: box-shadow .15s ease-in-out;
   margin-top: -10px; 
 }
@@ -66,7 +69,7 @@ nav {
   position: relative;
   max-width: 100%;
   height:auto;
-  padding: 100px 15px 10px 15px;  
+  padding: 110px 15px 10px 15px;  
 }
 
 hr{
