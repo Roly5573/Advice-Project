@@ -74,6 +74,16 @@ nav {
   padding: 105px 15px 10px 15px;  
 }
 
+.d-flex {
+  display: flex!important;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.center {
+  text-align: center;
+  margin-top: 10px;
+}
 hr{
   height: 5px;
   background-color: #1a097c;
