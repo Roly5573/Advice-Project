@@ -14,7 +14,8 @@ body {
 
 
 .top-text {
-  font-size: .75rem;
+  font-size: .6rem;
+  text-align: left;
 }
 
 nav {
