@@ -43,7 +43,7 @@ nav {
 
 
 .nav-item {
-    font-size: .8rem;
+    font-size: .7rem;
     font-weight: 600;
   
     
@@ -53,14 +53,13 @@ nav {
  
 .navbar-toggler {
   
-  padding: 0.25rem 0.75rem;
   font-size: 1rem;
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.5rem;
   transition: box-shadow .15s ease-in-out;
-  margin-top: -10px; 
+   
 }
 
 .navbar-light .navbar-toggler {
