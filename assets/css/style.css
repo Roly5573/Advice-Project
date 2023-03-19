@@ -13,6 +13,9 @@ body {
 }
 
 
+.top-text {
+  font-size: .75rem;
+}
 
 nav {
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
@@ -23,7 +26,7 @@ nav {
 
 
 .img-responsive {
-    height: 50px;
+    height: 45px;
    
  
   }
@@ -69,7 +72,7 @@ nav {
   position: relative;
   max-width: 100%;
   height:auto;
-  padding: 110px 15px 10px 15px;  
+  padding: 105px 15px 10px 15px;  
 }
 
 hr{
