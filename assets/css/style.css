@@ -6,24 +6,23 @@
     border: 0;
 }
 
-
-
 body {
     font-family: 'Open Sans', sans-serif;
 }
 
 
+
 .top-text {
+  font-weight: bold;
   font-size: .6rem;
   text-align: left;
 }
 
 nav {
+  position:absolute;
     box-shadow: 0 4px 4px 0 rgba(0,0,0,.2);
-    padding:0 0 0 15px ;
-    
-    
-  }
+   
+}
 
 
 .img-responsive {
@@ -35,11 +34,8 @@ nav {
 .navbar-brand {
     width: 180px;
     left: 10px;
-    margin-top: 5px;
-    margin-left: 0;
-    margin-right: 10px;
-    padding-left: 0;
-    padding-right: 0;
+    
+    
 }
 
 
