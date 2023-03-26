@@ -8,7 +8,6 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #004B88;
 }
 
 .row {
@@ -98,7 +97,7 @@ a.navbar-brand {
 }
 
 .center a {
-  color: #ffffff;
+  color:blue ;
 }
 
 .card-title {
@@ -115,4 +114,11 @@ a.navbar-brand {
   font-weight: 600;
   background-color: #FCBB69;
   border-color: #FCBB69;
+}
+
+.fixed-bottom {
+position:relative;
+padding-top: 50px;
+background-color:#004B88;
+color: #ffffff;
 }
