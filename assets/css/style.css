@@ -22,6 +22,13 @@ body {
     height: 60px;
    }
 
+   p.adviceline {
+    text-align:left;
+    padding-top: 5px;
+    padding-left:.8em;
+    font-size: smaller;
+   }
+
 .row.container-fluid.info-bar {
   background-color: #004b88;
   color: #FCBB69;
@@ -83,7 +90,8 @@ a.navbar-brand {
   max-width: 100%;
   height:auto;
   overflow: hidden;
-  padding: 100px 15px 10px 15px; 
+  padding: 100px 15px 10px 15px;
+   
 
   animation-name: hero-zoom;
   animation-duration: 5s;
