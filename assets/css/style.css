@@ -27,7 +27,7 @@ body {
   color: #FCBB69;
   font-size: .7rem;
   font-weight: 700;
-  padding-left: 10px;
+  padding-left:0;
 }
 
 
@@ -78,11 +78,37 @@ a.navbar-brand {
   transition: .15s ease-in-out;
  }
 
-.hero{
+#hero-image{
   position: relative;
   max-width: 100%;
   height:auto;
-  padding: 105px 15px 10px 15px;  
+  overflow: hidden;
+  padding: 100px 15px 10px 15px; 
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+}
+
+
+
+#hero-outer {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height:auto;
+  overflow: hidden;
+  
+  
+}
+
+@keyframes hero-zoom {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.4);
+  }
 }
 
 .d-flex {
@@ -100,9 +126,16 @@ a.navbar-brand {
   color:blue ;
 }
 
+p {
+  padding-left:2em;
+}
 .card-title {
   font-size: 1rem;
   font-weight: bold;
+  padding-left: 2em;
+}
+p .card-text {
+  padding-left:0;
 }
 
 .border-primary {
