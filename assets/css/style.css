@@ -159,7 +159,32 @@ p .card-text {
 
 .fixed-bottom {
 position:relative;
-padding-top: 50px;
-background-color:#004B88;
+padding-top: 10px;
+background-color:hsl(207, 100%, 27%);
 color: #ffffff;
+margin-top: 10px;
+overflow: hidden;
+}
+
+.card.c-background {
+  background-color: #004B88;
+  border:0 ;
+  margin-top:0;
+  padding:1px;
+  
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: 0;
+  
+}
+p.card-text.foot {
+  font-size:.7rem;
+  color: #FCBB69;
+  padding-left: 0;
+}
+
+.card-text.foot a {
+  color: beige;
 }
