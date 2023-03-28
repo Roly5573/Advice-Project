@@ -164,6 +164,7 @@ background-color:hsl(207, 100%, 27%);
 color: #ffffff;
 margin-top: 10px;
 overflow: hidden;
+padding-bottom:1rem;
 }
 
 .card.c-background {
