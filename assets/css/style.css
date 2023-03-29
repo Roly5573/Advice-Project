@@ -162,9 +162,9 @@ p .card-text {
   border-color: #FCBB69;
 }
 
-
-
-
+.center-text.bottom-section {
+  text-align:center;
+}
 
 li.nav-item.mb-0 {
   background-color: #004B88;
