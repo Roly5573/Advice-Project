@@ -135,9 +135,12 @@ a.navbar-brand {
   
 }
  
-
-p {
-  padding-left:2em;
+.center-text {
+  color: #ffffff;
+}
+.center-text p {
+  padding-left:2rem;
+  padding-right:2rem ;
 }
 .card-title {
   font-size: 1rem;
@@ -170,6 +173,7 @@ li.nav-item.mb-0 {
 .text-muted {
   --bs-text-opacity: 1;
   font-size: smaller;
+  font-weight: 400;
   color:white !important;
 background-color: #004B88;
 text-align:center;
