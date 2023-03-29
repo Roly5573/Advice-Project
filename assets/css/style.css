@@ -131,8 +131,10 @@ a.navbar-brand {
 }
 
 .center a {
-  color:blue ;
+  color:white ;
+  
 }
+ 
 
 p {
   padding-left:2em;
@@ -147,7 +149,7 @@ p .card-text {
 }
 
 .border-primary {
-  border-color: #004B88!important;
+  border-color:black!important;
 }
 
 .btn-warning {
@@ -157,35 +159,30 @@ p .card-text {
   border-color: #FCBB69;
 }
 
-.fixed-bottom {
-position:relative;
-padding-top: 10px;
-background-color:hsl(207, 100%, 27%);
-color: #ffffff;
-margin-top: 10px;
-overflow: hidden;
-padding-bottom:1rem;
-}
 
-.card.c-background {
+
+
+
+li.nav-item.mb-0 {
   background-color: #004B88;
-  border:0 ;
-  margin-top:0;
-  padding:1px;
   
 }
+.text-muted {
+  --bs-text-opacity: 1;
+  font-size: smaller;
+  color:white !important;
+background-color: #004B88;
+text-align:center;
 
-.card-body {
-  flex: 1 1 auto;
+}
+
+div.col.mb-3 {
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 10px;
+  
+}
+.nav-item.mb-3 {
+	margin: 5px;
   padding: 0;
-  
-}
-p.card-text.foot {
-  font-size:.7rem;
-  color: #FCBB69;
-  padding-left: 0;
-}
-
-.card-text.foot a {
-  color: beige;
-}
+}	
