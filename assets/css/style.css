@@ -58,18 +58,19 @@ a.navbar-brand {
 
 .navbar-nav li{
  position:relative;
-  text-align: center;
+text-align: center;
+  
   
   
 
 }
- .nav-item {
+ .navbar-nav li.nav-item {
   width: 100%;
-  text-align: right;
+  text-align:center;
   color:#004b88;
   font-size: .8rem;
   font-weight: 600;
-  background-color:#ffffff;
+  background-color:#f8f9fa;
   padding: 5px;
   
  
@@ -79,8 +80,9 @@ a.navbar-brand {
   color: #004B88;
   font-size: 1rem;
   line-height: 1;
-  background-color:#ffffff;
-  border: 1px solid transparent;
+  background-color:#f8f9fa;
+  border: 1px solid;
+  border-color: rgba(0,75,136,.2);
   border-radius: 0.5rem;
   transition: .15s ease-in-out;
  }
@@ -123,6 +125,7 @@ a.navbar-brand {
   display: flex!important;
   margin-right: 10px;
   margin-left: 10px;
+  padding-top:5px;
 }
 
 .center {
@@ -131,12 +134,12 @@ a.navbar-brand {
 }
 
 .center a {
-  color:white ;
+  color:#ffffff
   
 }
  
 .center-text {
-  color: #ffffff;
+  color:#ffffff;
 }
 .center-text p {
   padding-left:2rem;
@@ -166,6 +169,13 @@ p .card-text {
 
 .center-text.bottom-section {
   text-align:center;
+  width: auto;
+}
+
+.center-text.bottom-section img {
+  padding-bottom: 1rem;
+  border-radius: 50px;
+  border-color:#004b88;
 }
 
 li.nav-item.mb-0 {
