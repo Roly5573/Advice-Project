@@ -174,14 +174,23 @@ div h2 {
   padding-right:2rem ;
 }
 
+h3.center {
+  text-align:center;  
+}
+
 .rom_libray_image {
-  width: 300px;
+  width: 250px;
   float: left;
-  margin-right: 2rem;
+  margin-right: 20px;
+  margin-top:10px;
 }
 
 .romford-map {
+  width: 250px;
   float: right;
+  margin-right: 10px;
+  margin-left: 5px;
+  margin-bottom:5px;
 }
 
 /* CAH Outreach offices and Appointments bookings */
@@ -211,13 +220,14 @@ p .card-text {
 .center-text.bottom-section {
   text-align:center;
   width: auto;
+  
 }
 
-.center-text.bottom-section img {
-  padding-bottom: 1rem;
-  border-radius: 50px;
-  border-color:#004b88;
+.havering-title {
+  padding-top: 1rem;
 }
+
+
 
 /* footer styling */
 
