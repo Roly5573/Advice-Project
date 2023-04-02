@@ -91,7 +91,15 @@ a.nav-link {
   border-radius: 0.5rem;
   transition: .15s ease-in-out;
  }
+.navbar-collapse {
+  width: 200px;
+  margin-right: 20rem;
+  opacity: 85%;
+}
 
+.dropdown-menu li.dropdown-item {
+  padding-right: 5px;
+}
 
 #hero-image{
   position: relative;
@@ -127,6 +135,13 @@ a.nav-link {
   }
 }
 
+div h2 {
+  text-align: center;
+}
+.link {
+  color: aliceblue;
+  opacity: 75%;
+}
 .d-flex {
   display: flex!important;
   margin-right: 10px;
