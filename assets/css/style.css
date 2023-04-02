@@ -9,7 +9,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
-
+/* Fixed Top Section */
 .row {
    height: 100px;
    width: 100%;
@@ -37,6 +37,7 @@ body {
   padding-left:0;
 }
 
+/* Navbar Styling */
 
 nav {
   width: 100%;
@@ -101,6 +102,8 @@ a.nav-link {
   padding-right: 5px;
 }
 
+/* Hero Image and Animation */
+
 #hero-image{
   position: relative;
   max-width: 100%;
@@ -135,9 +138,8 @@ a.nav-link {
   }
 }
 
-div h2 {
-  text-align: center;
-}
+/* Searchbar and website link */
+
 .link {
   color: aliceblue;
   opacity: 75%;
@@ -158,6 +160,11 @@ div h2 {
   color:#ffffff
   
 }
+
+/* Welcome and Citizens Advice Romford Section */
+div h2 {
+  text-align: center;
+}
  
 .center-text {
   color:#ffffff;
@@ -176,6 +183,8 @@ div h2 {
 .romford-map {
   float: right;
 }
+
+/* CAH Outreach offices and Appointments bookings */
 .card-title {
   font-size: 1rem;
   font-weight: bold;
@@ -198,6 +207,7 @@ p .card-text {
   border-color: #FCBB69;
 }
 
+/* Havering and local services information */
 .center-text.bottom-section {
   text-align:center;
   width: auto;
@@ -208,6 +218,8 @@ p .card-text {
   border-radius: 50px;
   border-color:#004b88;
 }
+
+/* footer styling */
 
 li.nav-item.mb-0 {
   background-color: #004B88;
