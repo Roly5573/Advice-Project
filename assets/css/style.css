@@ -166,6 +166,16 @@ div h2 {
   padding-left:2rem;
   padding-right:2rem ;
 }
+
+.rom_libray_image {
+  width: 300px;
+  float: left;
+  margin-right: 2rem;
+}
+
+.romford-map {
+  float: right;
+}
 .card-title {
   font-size: 1rem;
   font-weight: bold;
