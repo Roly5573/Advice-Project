@@ -227,12 +227,18 @@ p .card-text {
   padding-top: 1rem;
 }
 
+.collapse {
+color: #ffffff;
+width: 100%;
+}
+
 
 
 /* footer styling */
 
 li.nav-item.mb-0 {
   background-color: #004B88;
+  
   
 }
 .text-muted {
@@ -250,6 +256,9 @@ div.col.mb-3 {
   text-align: center;
   padding: 10px 10px;
   
+}
+.text-underline-hover:hover {
+  text-decoration: underline;
 }
 .nav-item.mb-3 {
 	margin: 5px;
