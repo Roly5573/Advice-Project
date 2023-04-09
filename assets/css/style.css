@@ -142,7 +142,11 @@ a.nav-link {
 
 .link {
   color: aliceblue;
-  opacity: 75%;
+  opacity: 80%;
+}
+
+a:hover {
+  color: aqua;
 }
 .d-flex {
   display: flex!important;
@@ -159,6 +163,10 @@ a.nav-link {
 .center a {
   color:#ffffff
   
+}
+
+.form-control.searchplaceholder {
+  font-size: smaller;
 }
 
 /* Welcome and Citizens Advice Romford Section */
@@ -236,12 +244,22 @@ width: 100%;
 margin-bottom:10px;
 }
 
+h6 {
+  color: #FCBB69;
+  font-size: larger;
+  font-weight:bold;
+  padding-top: .5rem;
+}
+
 div#Havering-Services.collapse.show {
   padding-top: 20px;
-  margin-bottom: 150px;
+  margin-bottom: 1000px;
  
 }
 
+div.col-sm-4.border.border-warning.text-break {
+ padding-bottom: 10px; 
+}
 
 /* footer styling */
 
