@@ -227,14 +227,29 @@ p .card-text {
   padding-top: 1rem;
 }
 
+button.havering.btn.btn-warning.collapsed {
+  margin-bottom: 10px;
+}
 .collapse {
 color: #ffffff;
 width: 100%;
+margin-bottom:10px;
+}
+
+div#Havering-Services.collapse.show {
+  padding-top: 20px;
+  margin-bottom: 150px;
+ 
 }
 
 
-
 /* footer styling */
+
+.border-top {
+  position: relative;
+  
+  
+}
 
 li.nav-item.mb-0 {
   background-color: #004B88;
