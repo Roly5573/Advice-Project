@@ -168,6 +168,10 @@ a:hover {
 .form-control.searchplaceholder {
   font-size: smaller;
 }
+.address {
+  text-align:center;
+  padding: 10px;
+}
 
 /* Welcome and Citizens Advice Romford Section */
 div h2 {
@@ -180,6 +184,11 @@ div h2 {
 .center-text p {
   padding-left:2rem;
   padding-right:2rem ;
+}
+
+.table {
+  padding-right: 1rem;
+  font-size: small;
 }
 
 h3.center {
@@ -249,11 +258,14 @@ h6 {
   font-size: larger;
   font-weight:bold;
   padding-top: .5rem;
+
 }
+
 
 div#Havering-Services.collapse.show {
   padding-top: 20px;
-  margin-bottom: 1000px;
+  padding-bottom: 75px;
+  margin-bottom: 1200px;
  
 }
 
@@ -264,9 +276,14 @@ div.col-sm-4.border.border-warning.text-break {
 /* footer styling */
 
 .border-top {
-  position: relative;
+  position:relative;
+  margin-top:5px;
   
   
+}
+
+footer {
+  position:relative;
 }
 
 li.nav-item.mb-0 {
