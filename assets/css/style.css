@@ -272,6 +272,25 @@ div#Havering-Services.collapse.show {
 div.col-sm-4.border.border-warning.text-break {
  padding-bottom: 10px; 
 }
+a.tel {
+  color: aliceblue;
+  opacity: 80%;
+}
+
+a.tel:hover {
+  color: aquamarine;
+}
+
+/* no finger touch/no call access for tablets and desktops */
+@media(min-width:  550px) {
+a.tel  { color: #9e8a8a; 
+        cursor: default;  }
+a.tel:hover {
+          color:#9e8a8a;
+          cursor: default;}
+}
+
+
 
 /* footer styling */
 
