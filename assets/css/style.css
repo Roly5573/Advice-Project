@@ -210,7 +210,36 @@ h3.center {
   margin-bottom:5px;
 }
 
+/* Telephone Advice Information */
+
+.center {
+  color: #ffffff;
+}
+
+.phone {
+  color: #FCBB69;
+  font-weight: bold;
+}
+.number {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.container.boxes {
+  padding-bottom: 150px;
+}
+
+/* Email Advice Information */
+
+.email-advice {
+  margin-top: 100px;
+}
+
 /* CAH Outreach offices and Appointments bookings */
+
+.card-body {
+  background-color: rgb(229, 240, 229);
+}
 .card-title {
   font-size: 1rem;
   font-weight: bold;
@@ -283,11 +312,13 @@ a.tel:hover {
 
 /* no finger touch/no call access for tablets and desktops */
 @media(min-width:  550px) {
-a.tel  { color: #9e8a8a; 
-        cursor: default;  }
+a.tel  { color: #ddd5d5; 
+        cursor: default;
+      text-decoration: none;  }
 a.tel:hover {
-          color:#9e8a8a;
-          cursor: default;}
+          color:#ddd5d5;
+          cursor: default;
+        text-decoration: none;}
 }
 
 
