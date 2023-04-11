@@ -303,6 +303,14 @@ div#Havering-Services.collapse.show {
  
 }
 
+@media(min-width:  650px) {
+  div#Havering-Services.collapse.show {
+    padding-top: 20px;
+  margin-bottom: 600px;
+  display:block;
+  } 
+}
+
 div.container.text-center {
   display: block;
   
