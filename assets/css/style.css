@@ -211,15 +211,15 @@ h3.center {
   margin-bottom:5px;
 }
 
-/* Telephone Advice Information */
+/* Help & Advice Section */
+
+
 
 .center {
   color: #ffffff;
 }
 
-div.container.advice-section {
 
-}
 
 
 
@@ -232,33 +232,26 @@ div.container.advice-section {
   font-weight: 400;
 }
 
-div.container.boxes {
+.container.advice-section {
   margin-bottom: 1800px;
- 
 }
 
+
+
 @media(min-width: 780px) {
-  div.container.boxes {
+  .container.advice-section {
     margin-bottom: 830px;
   }
   }
 
  
   
-/* Email Advice Information */
 
-div.email-advice {
- padding-top: 0px;
- position: inherit; 
-}
-
-div.center-text {
-  display: block;
-}
 /* CAH Outreach offices and Appointments bookings */
 
-h3.center {
-  padding-top: 20px;
+h3.card-header.center {
+  padding-top: 200px;
+  padding-bottom: 20px;
 }
 
 .card-body {
