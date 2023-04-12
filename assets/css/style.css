@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
+    height: auto;
 }
 /* Fixed Top Section */
 .row {
@@ -202,11 +203,11 @@ h3.center {
   margin-top:10px;
 }
 
-.romford-map {
+.romford-map.rounded-2 {
   width: 250px;
   float: right;
-  margin-right: 10px;
   margin-left: 5px;
+  margin-right: 20px;
   margin-bottom:5px;
 }
 
@@ -216,6 +217,12 @@ h3.center {
   color: #ffffff;
 }
 
+div.container.advice-section {
+
+}
+
+
+
 .phone {
   color: #FCBB69;
   font-weight: bold;
@@ -224,17 +231,15 @@ h3.center {
   color: #ffffff;
   font-weight: 400;
 }
-div.container.boxes {
-  display: block;
-}
+
 div.container.boxes {
   margin-bottom: 1800px;
  
 }
 
-@media(min-width: 600px) {
+@media(min-width: 780px) {
   div.container.boxes {
-    margin-bottom: 700px;
+    margin-bottom: 830px;
   }
   }
 
@@ -243,7 +248,8 @@ div.container.boxes {
 /* Email Advice Information */
 
 div.email-advice {
- padding-top: 20px; 
+ padding-top: 0px;
+ position: inherit; 
 }
 
 div.center-text {
@@ -251,8 +257,13 @@ div.center-text {
 }
 /* CAH Outreach offices and Appointments bookings */
 
+h3.center {
+  padding-top: 20px;
+}
+
 .card-body {
   background-color: rgb(229, 240, 229);
+  
 }
 .card-title {
   font-size: 1rem;
@@ -307,8 +318,8 @@ h6 {
 
 div#Havering-Services.collapse.show {
   padding-top: 20px;
-  margin-bottom: 1200px;
-  display:block;
+  margin-bottom: 1100px;
+  
  
 }
 
@@ -316,7 +327,7 @@ div#Havering-Services.collapse.show {
   div#Havering-Services.collapse.show {
     padding-top: 20px;
   margin-bottom: 600px;
-  display:block;
+  
   } 
 }
 
@@ -360,7 +371,7 @@ a.tel:hover {
 }
 
 footer {
-  position:relative;
+  position:sticky;
   display: block;
 }
 
