@@ -229,7 +229,11 @@ h3.center {
 }
 .number {
   color: #ffffff;
-  font-weight: 400;
+  font-weight: 700;
+}
+
+.web.link {
+  font-weight:00;
 }
 
 .container.advice-section {
@@ -251,7 +255,14 @@ h3.center {
 
 h3.card-header.center {
   padding-top: 200px;
+  padding-bottom: 16px;
+}
+
+@media(min-width: 700px) {
+h3.card-header.center {
+  padding-top: 100px;
   padding-bottom: 20px;
+}
 }
 
 .card-body {
@@ -261,7 +272,10 @@ h3.card-header.center {
 .card-title {
   font-size: 1rem;
   font-weight: bold;
-  padding-left: 2em;
+}
+
+.col-xl-3.col-xxl-3 {
+  padding: 20px;
 }
 p .card-text {
   padding-left:0;
