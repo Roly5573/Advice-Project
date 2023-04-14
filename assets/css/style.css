@@ -125,7 +125,7 @@ a.nav-link {
   max-width: 100%;
   overflow: hidden;
   height:auto;
-  overflow: hidden;
+ 
   
   
 }
@@ -192,6 +192,8 @@ div h2 {
   font-size: small;
 }
 
+/* Romford Section */
+
 h3.center {
   text-align:center;  
 }
@@ -199,21 +201,25 @@ h3.center {
 .rom_libray_image {
   width: 250px;
   float: left;
-  margin-right: 20px;
-  margin-top:10px;
+  padding-right: 10px;
+ 
 }
 
 .romford-map.rounded-2 {
   width: 250px;
-  float: right;
-  margin-left: 5px;
-  margin-right: 20px;
+  float:right;
+  position:relative;
+  
+  
   margin-bottom:5px;
+  padding-left: 15px;
 }
 
 /* Help & Advice Section */
 
-
+div.col-sm-6.border.border-1.phone {
+  
+}
 
 .center {
   color: #ffffff;
@@ -237,7 +243,9 @@ h3.center {
 }
 
 .container.advice-section {
-  margin-bottom: 1800px;
+  margin-bottom: 2000px;
+ 
+  
 }
 
 
@@ -293,6 +301,12 @@ p .card-text {
   font-weight: 600;
   background-color: #FCBB69;
   border-color: #FCBB69;
+}
+
+div.container {
+  width: 80%;
+  
+  
 }
 
 /* Havering and local services information */
