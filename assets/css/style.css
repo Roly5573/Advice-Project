@@ -256,6 +256,7 @@ h3.center {
 h3.card-header.center {
   padding-top: 200px;
   padding-bottom: 16px;
+  vertical-align: top;
 }
 
 @media(min-width: 700px) {
