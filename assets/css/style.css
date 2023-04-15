@@ -286,10 +286,23 @@ p .card-text {
   border-color: #FCBB69;
 }
 
+/* Embedded Citizens Advice Cost-of-Living video. */
+
 div.container {
   width: 80%;
-  
-  
+  }
+
+h4 {
+  color: #ffffff;
+  text-align: center;
+}
+.video.btn.btn-warning {
+  text-align: center;
+}
+div.card.container.card-img-top.rounded-border {
+  border-radius: 10px;
+  border-width: 5px;
+margin-bottom: 1rem;
 }
 
 /* Havering and local services information */
