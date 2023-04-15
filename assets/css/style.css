@@ -321,7 +321,7 @@ h6 {
 }
 
 
-div#Havering-Services.collapse.show {
+#Havering-Services.container.collapse.show {
   padding-top: 20px;
   margin-bottom: 1100px;
   
@@ -329,7 +329,7 @@ div#Havering-Services.collapse.show {
 }
 
 @media(min-width:  650px) {
-  div#Havering-Services.collapse.show {
+  #Havering-Services.collapse.show {
     padding-top: 20px;
   margin-bottom: 600px;
   
@@ -342,7 +342,10 @@ div.container.text-center {
 }
 
 div.col-sm-4.border.border-warning.text-break {
- padding-bottom: 10px; 
+
+ padding-bottom: 10px;
+ 
+  
 }
 a.tel {
   color: aliceblue;
