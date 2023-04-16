@@ -27,7 +27,7 @@ body {
     text-align:left;
     padding-top: 5px;
     padding-left:.8em;
-    font-size: smaller;
+    font-size: .8rem;
    }
 
 .row.container-fluid.info-bar {
@@ -86,21 +86,29 @@ a.nav-link {
 .navbar-toggler {
   color: #004B88;
   font-size: 1rem;
+  margin-right: 3px;
   line-height: 1;
   background-color:#f8f9fa;
-  border: 1px solid;
+  border: 2px solid;
   border-color: rgba(0,75,136,.2);
   border-radius: 0.5rem;
   transition: .15s ease-in-out;
  }
 .navbar-collapse {
-  width: 200px;
-  margin-right: 20rem;
-  opacity: 85%;
+  margin-right: 10rem;
+  opacity: 80%;
+  
 }
 
 .dropdown-menu li.dropdown-item {
-  padding-right: 5px;
+  padding-right: 30px;
+}
+
+@media (max-width:576px){
+.navbar-collapse{
+    margin-right: 11rem;
+    opacity:80%;
+}
 }
 
 /* Hero Image and Animation */
@@ -166,8 +174,13 @@ a:hover {
   
 }
 
-.form-control.searchplaceholder {
-  font-size: smaller;
+
+
+.searchplaceholder {
+  font-size:small;
+  padding: 0,1px,0,1px;
+  width: 100%;
+  
 }
 .address {
   text-align:center;
