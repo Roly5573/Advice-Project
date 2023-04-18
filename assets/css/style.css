@@ -325,14 +325,25 @@ div.card.container.card-img-top.rounded-border {
 margin-bottom: 1rem;
 }
 
+
+/* Havering and local services information */
+
 div.container.grid.services {
-  height: auto;
+height: auto;
 margin-bottom: 700px;
 color: #ffffff;
 text-align: center;
 }
 
-/* Havering and local services information */
+@media (min-width: 576px){ 
+div.container.grid.services {
+height: auto;
+margin-bottom: 400px;
+color: #ffffff;
+text-align: center;
+}
+}
+
 .center-text.bottom-section {
   text-align:center;
   width: auto;
@@ -361,31 +372,23 @@ h6 {
 }
 
 
-#Havering-Services.container.collapse.show {
-  padding-top: 20px;
-  margin-bottom: 750px;
+
   
  
-}
 
-@media(min-width:  576px) {
-  #Havering-Services.container.collapse.show {
-    padding-top: 20px;
-  margin-bottom: 400px;
-  
-  } 
-}
+
+
 
 div.container.text-center {
   display: block;
+  margin-top: 1rem;
   
 }
 
 div.col-sm-4.border.border-warning.text-break {
 
- padding-bottom: 100px;
- 
-  
+ padding-bottom: 10px;
+   
 }
 a.tel {
   color: aliceblue;
