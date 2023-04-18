@@ -66,6 +66,9 @@ text-align: center;
 a.nav-link {
   color: #004B88;
 }
+a.nav-link:hover {
+  color: rgb(231, 12, 12);
+}
 
 .container-fluid {
   width: 100%;
@@ -78,7 +81,7 @@ a.nav-link {
   font-size: .8rem;
   font-weight: 600;
   background-color:#f8f9fa;
-  padding-left: 15px;
+  padding-left: 1rem;
   
  
 }
@@ -97,16 +100,16 @@ a.nav-link {
 .navbar-collapse {
   margin-right: 10rem;
   opacity: 80%;
-  
+  padding-right: 2rem;
 }
 
 .dropdown-menu li.dropdown-item {
-  padding-right: 30px;
+  padding-right: 1rem;
 }
 
 @media (max-width:576px){
 .navbar-collapse{
-    margin-right: 11rem;
+    margin-right: 10rem;
     opacity:80%;
 }
 }
@@ -413,13 +416,13 @@ footer {
 }
 
 li.nav-item.mb-0 {
-  background-color: #004B88;
-  
-  
+  background-color: #004B88;  
 }
+
+
 .text-muted {
   --bs-text-opacity: 1;
-  font-size: smaller;
+  font-size:1rem;
   font-weight: 400;
   color:white !important;
 background-color: #004B88;
@@ -435,7 +438,9 @@ div.col.mb-3 {
 }
 .text-underline-hover:hover {
   text-decoration: underline;
-}
+  text-decoration-color: #FCBB69;
+  text-decoration-thickness: 0.2rem;
+} 
 .nav-item.mb-3 {
 	margin: 5px;
   padding: 0;
