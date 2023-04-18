@@ -2,14 +2,14 @@
 
 * {
     margin: 0;
-  
+  padding: 0;
     border: 0;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     height: auto;
-    padding-bottom:700px;
+    padding-bottom:1700px;
 }
 /* Fixed Top Section */
 .row {
@@ -323,6 +323,13 @@ div.card.container.card-img-top.rounded-border {
   border-radius: 10px;
   border-width: 5px;
 margin-bottom: 1rem;
+}
+
+div.container.grid.services {
+  height: auto;
+margin-bottom: 700px;
+color: #ffffff;
+text-align: center;
 }
 
 /* Havering and local services information */
