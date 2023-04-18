@@ -2,13 +2,14 @@
 
 * {
     margin: 0;
-    padding: 0;
+  
     border: 0;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     height: auto;
+    padding-bottom:700px;
 }
 /* Fixed Top Section */
 .row {
@@ -355,15 +356,15 @@ h6 {
 
 #Havering-Services.container.collapse.show {
   padding-top: 20px;
-  margin-bottom: 1100px;
+  margin-bottom: 750px;
   
  
 }
 
-@media(min-width:  650px) {
-  #Havering-Services.collapse.show {
+@media(min-width:  576px) {
+  #Havering-Services.container.collapse.show {
     padding-top: 20px;
-  margin-bottom: 600px;
+  margin-bottom: 400px;
   
   } 
 }
@@ -411,8 +412,9 @@ a.tel:hover {
 }
 
 footer {
-  position:sticky;
+  position:relative;
   display: block;
+  z-index: 9999;
 }
 
 li.nav-item.mb-0 {
@@ -445,3 +447,4 @@ div.col.mb-3 {
 	margin: 5px;
   padding: 0;
 }	
+
