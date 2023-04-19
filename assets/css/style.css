@@ -360,7 +360,9 @@ a.tel:hover {
 
 /* collapsible contact and feedback form */
 
-
+.mb-3.text-start {
+  color: #ffffff;
+}
 
 
 /* no finger touch/no call access for tablets and desktops */
