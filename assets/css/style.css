@@ -43,7 +43,7 @@ body {
 nav {
   width: 100%;
   position:relative;
-  box-shadow: 0 5px 5px 0 rgba(46, 136, 211, 0.4);
+  box-shadow: 0 10px 5px 0 rgba(46, 136, 211, 0.4);
   }
 
 a.navbar-brand {
@@ -98,31 +98,34 @@ a.nav-link:hover {
   transition: .15s ease-in-out;
  }
 .navbar-collapse {
-  margin-right: 10rem;
+  margin-right: 1rem;
   opacity: 80%;
-  padding-right: 3rem;
-  
-}
+ padding-right: 1rem;
+  }
 
-.navbar-expand-sm .navbar-collapse {
-  margin-top: .5rem;
+a.nav-link {
+  padding-right: 2rem;
+  padding-left: 1rem;
 }
-
 @media (min-width: 576px){
 .navbar-expand-sm .navbar-collapse {
     display: flex!important;
     flex-basis: auto;
-    margin-top: 1.5rem;
+    margin-top: .5rem;
 }
 }
+div.navbar-collapse.collapse.show {
 
+  height: 60px;
+}
 .dropdown-menu li.dropdown-item {
   padding-right: 1rem;
+  
 }
 
 @media (max-width:576px){
 .navbar-collapse{
-    margin-right: 10rem;
+    margin-right:15rem;
     opacity:80%;
 }
 }
@@ -164,6 +167,7 @@ a.nav-link:hover {
 }
 
 /* Searchbar and website link */
+
 
 .link {
   color: aliceblue;
@@ -314,6 +318,7 @@ div.container {
 h4 {
   color: #ffffff;
   text-align: center;
+  padding-top:2rem ;
 }
 .video.btn.btn-warning {
   text-align: center;
@@ -327,6 +332,11 @@ margin-bottom: 1rem;
 
 /* Havering and local services information */
 
+h3 {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 1rem;
+}
 div.center-text.bottom-section {
   width: 100%;
   text-align: center;
@@ -336,15 +346,16 @@ div.center-text.bottom-section {
 
 div.container.grid.services {
 height: auto;
-margin-bottom: 700px;
+margin-bottom: 400px;
 color: #ffffff;
 text-align: center;
+padding-bottom: 2rem;
 }
 
 @media (min-width: 576px){ 
 div.container.grid.services {
 height: auto;
-margin-bottom: 400px;
+margin-bottom: 100px;
 color: #ffffff;
 text-align: center;
 }
@@ -359,7 +370,15 @@ a.tel:hover {
 }
 
 /* collapsible contact and feedback form */
+div.container.text-center {
+  padding-top: 50px;
+  position:relative;
+  margin-top: 210px;
+}
 
+button.contact.btn.btn-warning {
+  position: sticky;
+}
 .mb-3.text-start {
   color: #ffffff;
 }
@@ -395,6 +414,13 @@ a.tel:hover {
 
 /* footer styling */
 
+h6 {
+  color: #FCBB69;
+  font-size: larger;
+  font-weight: bold;
+
+}
+
 .border-top {
   position:relative;
   margin-top:5px;
@@ -405,7 +431,7 @@ a.tel:hover {
 footer {
   position:relative;
   display: block;
-  z-index: 9999;
+ 
 }
 
 li.nav-item.mb-0 {
