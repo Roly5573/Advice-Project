@@ -232,28 +232,21 @@ h3.center {
 
 /* Help & Advice Section */
 
-
-
 .center {
   color: #ffffff;
 }
-
-
 
 .row.row-cols-1.advice {
   background-color:rgb(0, 68, 138);
   height: 100%;
   margin-bottom: 2rem;
-  
- 
 }
-
-
 
 .phone {
   color: #FCBB69;
   font-weight: bold;
 }
+
 .number {
   color: #ffffff;
   font-weight: 700;
@@ -273,13 +266,8 @@ h3.center {
 
 /* CAH Outreach offices and Appointments bookings */
 
-
-
-
-
 .card-body {
   background-color: rgb(229, 240, 229);
-  
 }
 .card-title {
   font-size: 1rem;
@@ -296,7 +284,6 @@ p .card-text {
 .border-primary {
   border-color:#2E639A !important;
   border-radius: 10px;
-  
 }
 
 .btn-warning {
@@ -327,11 +314,11 @@ margin-bottom: 1rem;
 
 
 /* Havering and local services information */
+
 div.center-text.bottom-section {
-  width: 80%;
+  width: 100%;
   text-align: center;
   margin:0 auto 0 auto;
-  
 }
 
 
@@ -351,33 +338,45 @@ text-align: center;
 }
 }
 
+a.tel {
+  color: aliceblue;
+  opacity: 80%;
+}
+a.tel:hover {
+  color: aquamarine;
+}
+
 /* collapsible contact and feedback form */
+
 div.container.text-center {
-   
+ padding-top: 1rem;
+ padding-bottom: 1rem;  
 }
 
 .form-group.form-control {
   background-color: rgb(210, 235, 226);
   border-color: #0616aa;
-  border-style: double;
+  border-radius: 0;
+  border-style: none;
   margin:0 auto 0 auto;
-  
 }
+
 .center-text.bottom-section {
   text-align:center;
-  
-  
 }
 
-
+.contact.btn.btn-warning {
+  margin-bottom: 1rem; 
+}
 
 .contact.btn.btn-warning.collapsed {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
+
 .collapse {
-color: #ffffff;
+color: #b2ebd8;
 width: 100%;
-margin-bottom:10px;
+margin-bottom:2rem;
 }
 
 h6 {
@@ -385,35 +384,14 @@ h6 {
   font-size: larger;
   font-weight:bold;
   padding-top: .5rem;
-
-}
-
-
-
-  
- 
-
-
-
-
-div.container.text-center {
-  display: block;
-  margin-top: 1rem;
-  
 }
 
 div.col-sm-4.border.border-warning.text-break {
-
- padding-bottom: 10px;
-   
-}
-a.tel {
-  color: aliceblue;
-  opacity: 80%;
+padding-top: 10px;
 }
 
-a.tel:hover {
-  color: aquamarine;
+.btn.btn-md.btn-warning.btn-block {
+  margin-top:.5rem ;
 }
 
 /* no finger touch/no call access for tablets and desktops */
