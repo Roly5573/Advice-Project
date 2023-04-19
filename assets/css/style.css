@@ -364,6 +364,21 @@ a.tel:hover {
   color: #ffffff;
 }
 
+#name.form-control {
+  background-color:#e5f0e5;
+}
+
+#emailaddress.form-control {
+  background-color:#e5f0e5;
+}
+
+ #message.form-control {
+  background-color:#e5f0e5;
+}
+
+
+
+
 
 /* no finger touch/no call access for tablets and desktops */
 @media(min-width:  550px) {
