@@ -43,7 +43,7 @@ body {
 nav {
   width: 100%;
   position:relative;
-  box-shadow: 0 10px 5px 0 rgba(46, 136, 211, 0.4);
+  box-shadow: 0 6px 3px 0 rgba(79, 146, 201, 0.4);
   }
 
 a.navbar-brand {
@@ -89,7 +89,7 @@ a.nav-link:hover {
 .navbar-toggler {
   color: #004B88;
   font-size: 1rem;
-  margin-right: 3px;
+  margin-right: 8px;
   line-height: 1;
   background-color:#f8f9fa;
   border: 2px solid;
@@ -200,6 +200,7 @@ a:hover {
   font-size:small;
   padding: 0,1px,0,1px;
   width: 100%;
+  background-color:#e5f0e5;
   
 }
 .address {
@@ -228,7 +229,8 @@ div h2 {
 /* Romford Section */
 
 h3.center {
-  text-align:center;  
+  text-align:center;
+  
 }
 
 .rom_libray_image.rounded-2{
@@ -250,6 +252,7 @@ h3.center {
 
 .center {
   color: #ffffff;
+  
 }
 
 .row.row-cols-1.advice {
@@ -283,7 +286,7 @@ h3.center {
 /* CAH Outreach offices and Appointments bookings */
 
 .card-body {
-  background-color: rgb(229, 240, 229);
+  background-color:#e5f0e5;
 }
 .card-title {
   font-size: 1rem;
