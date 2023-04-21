@@ -221,9 +221,10 @@ div h2 {
   padding-right:1rem ;
 }
 
-.table {
+table.container.table.table-bordered {
   padding-right: 1rem;
   font-size: small;
+  
 }
 
 /* Romford Section */
@@ -314,8 +315,9 @@ p .card-text {
 
 /* Embedded Citizens Advice Cost-of-Living video. */
 
-div.container {
-  width: 100%;
+div.container.video {
+  text-align: center;
+  width: 720px;
   }
 
 h4 {
@@ -373,10 +375,11 @@ a.tel:hover {
 }
 
 /* collapsible contact and feedback form */
-div.container.text-center {
+div.container.text-center.feedback {
   padding-top: 50px;
   position:relative;
   margin-top: 210px;
+  width: 720px;
 }
 
 button.contact.btn.btn-warning {
@@ -470,6 +473,7 @@ div.col.mb-3 {
 
 div.disclaimer {
   color: #ddd5d5;
-  font-size: 10px;
+  font-size: 11px;
+  text-align: center;
 }
 
