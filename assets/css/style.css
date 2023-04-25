@@ -198,7 +198,7 @@ a:hover {
 
 .searchplaceholder {
   font-size:small;
-  padding: 0,1px,0,1px;
+  padding: 0 1px 0 1px;
   width: 100%;
   background-color:#e5f0e5;
   
@@ -273,18 +273,6 @@ h3.center {
   font-weight: 700;
 }
 
-.web.link {
-  font-weight:00;
-}
-
-
-
-
-
-
- 
-  
-
 /* CAH Outreach offices and Appointments bookings */
 
 .card-body {
@@ -311,7 +299,7 @@ p .card-text {
   color: #004B88;
   font-weight: 600;
   background-color: #FCBB69;
-  border-color: #FCBB69;
+  
 }
 
 /* Embedded Citizens Advice Cost-of-Living video. */
