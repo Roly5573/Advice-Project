@@ -235,6 +235,8 @@ h3.center {
 }
 
 .rom_libray_image.rounded-2{
+  width: 100%;
+  max-width: 250px;
   float: left;
   padding-right: 10px;
  
