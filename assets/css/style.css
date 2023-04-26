@@ -78,10 +78,10 @@ a.nav-link:hover {
   width: 100%;
   text-align:left;
   color:#004b88;
-  font-size: .8rem;
+  font-size: 1rem;
   font-weight: 600;
   background-color:#f8f9fa;
-  padding-left: 1rem;
+  
   
  
 }
@@ -98,14 +98,18 @@ a.nav-link:hover {
   transition: .15s ease-in-out;
  }
 .navbar-collapse {
+  
   margin-right: 1rem;
-  opacity: 80%;
+  opacity: 100%;
  padding-right: 1rem;
   }
 
 a.nav-link {
+  
+  color: rgb(9, 9, 195);
   padding-right: 2rem;
   padding-left: 1rem;
+  font-size:1.1rem ;
 }
 @media (min-width: 576px){
 .navbar-expand-sm .navbar-collapse {
@@ -115,18 +119,26 @@ a.nav-link {
 }
 }
 div.navbar-collapse.collapse.show {
-
-  height: 60px;
+height: 60px;
 }
+
+
 .dropdown-menu li.dropdown-item {
   padding-right: 1rem;
-  
+}
+
+
+
+a.dropdown-item {
+  color: rgb(237, 229, 6);
+  font-size: 1.1rem;
+  font-weight:bold ;
 }
 
 @media (max-width:576px){
 .navbar-collapse{
     margin-right:15rem;
-    opacity:80%;
+    ;
 }
 }
 
