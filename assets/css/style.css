@@ -141,7 +141,7 @@ div.navbar-collapse.collapse.show {
    
 
   animation-name: hero-zoom;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-fill-mode: forwards;
 }
 
