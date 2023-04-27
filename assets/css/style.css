@@ -481,3 +481,10 @@ div.disclaimer {
   text-align: center;
 }
 
+.valid-css {
+  padding: 3px;
+}
+
+.disclaimer {
+  padding-bottom: 10px;
+}
