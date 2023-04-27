@@ -38,7 +38,7 @@ body {
   padding-left:0;
 }
 
-/* Navbar Styling */
+/* Navbar Styling and Dropdown */
 
 nav {
   width: 100%;
@@ -285,7 +285,7 @@ h3.center {
   font-weight: 700;
 }
 
-/* CAH Outreach offices and Appointments bookings */
+/*  Outreach offices and Appointments bookings */
 
 .card-body {
   background-color:#e5f0e5;
@@ -473,18 +473,13 @@ div.col.mb-3 {
   padding: 0;
 }
 
-
+/* disclaimer */
 
 div.disclaimer {
   color: #ddd5d5;
   font-size: 11px;
   text-align: center;
 }
-
-.valid-css {
-  padding: 3px;
-}
-
 .disclaimer {
   padding-bottom: 10px;
 }
