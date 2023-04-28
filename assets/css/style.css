@@ -270,7 +270,7 @@ h3.center {
 }
 
 .row.row-cols-1.advice {
-  background-color:rgb(0, 68, 138);
+  background-color:#00448a;
   height: 100%;
   margin-bottom: 2rem;
 }
@@ -347,6 +347,10 @@ div.center-text.bottom-section {
   width: 100%;
   text-align: center;
   margin:0 auto 0 auto;
+}
+
+.col-sm-6.border.border-warning.text-break {
+  background-color: #00448a;
 }
 
 
