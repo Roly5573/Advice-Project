@@ -31,7 +31,7 @@ body {
    }
 
 .row.container-fluid.info-bar {
-  background-color: #004b88;
+  background-color: #005688;
   color: #FCBB69;
   font-size: .7rem;
   font-weight: 700;
@@ -64,7 +64,7 @@ text-align: center;
 }
 
 a.nav-link {
-  color: #004B88;
+  color: #005688;
 }
 a.nav-link:hover {
   color: rgb(231, 12, 12);
@@ -77,7 +77,7 @@ a.nav-link:hover {
  .navbar-nav li.nav-item {
   width: 100%;
   text-align:left;
-  color:#004b88;
+  color:#005688;
   font-size: 1rem;
   font-weight: 600;
   background-color:#f8f9fa;
@@ -87,7 +87,7 @@ a.nav-link:hover {
 }
 
 .navbar-toggler {
-  color: #004B88;
+  color: #005688;
   font-size: 1rem;
   margin-right: 8px;
   line-height: 1;
@@ -443,7 +443,7 @@ footer {
 }
 
 li.nav-item.mb-0 {
-  background-color: #004B88;  
+  background-color: #005688;  
 }
 
 
@@ -452,7 +452,7 @@ li.nav-item.mb-0 {
   font-size:1rem;
   font-weight: 400;
   color:white !important;
-background-color: #004B88;
+background-color: #005688;
 text-align:center;
 
 }
