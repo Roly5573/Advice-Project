@@ -59,7 +59,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - A search box which integrates with the public search function on the Citizens Advice Website. A homepage link is also here.
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering, 
  ![welcome](assets/rmedia/readme_welcome.png)
- This is then followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer with links.
+- This is followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer with links.
 
 
 ## Contact Form
