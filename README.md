@@ -1,7 +1,7 @@
 # Advice Project
 
 This Advice in Havering website is an experimental project, which aims to be mobile friendly, providing easy access to free advice and support information, mainly for the local community. There are also important National telephone and website links.
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Roland/Documents/GitHub/Advice-Project/assets/images/am_i_responsive.png?version%3D1682862068928)
+![resonsive_display](assets/images/am_i_responsive.png)
 
 
 
@@ -49,13 +49,13 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ## Features
 
 - Fully Responsive Navbar consisting of advice telephone number link for mobile, together dropdown links to other sections within the website.
-![Alt text](assets/images/readme_navbar.png)
+![navbar](assets/images/readme_navbar.png)
 
 - Animated Hero image upon site opening.
-![Alt text](assets/images/readme_hero_image.png)
+![hero_image](assets/images/readme_hero_image.png)
 - A search box which integrates with the public search function on the Citizens Advice Website. A homepage link is also here.
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering, 
- ![Alt text](assets/images/readme_welcome.png)
+ ![welcome](assets/images/readme_welcome.png)
  This is then followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer with links.
 
 
