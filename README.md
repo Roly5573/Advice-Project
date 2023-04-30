@@ -25,6 +25,7 @@ You may view the Advice in Havering website
 - [User Experience](#user-experience)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
+- [Future Improvements](#future_improvements)
 
 
 
@@ -62,9 +63,9 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 
 ## Contact Form
+- Contact form is hidden by default but activated by Contact/Feedback button.
 ![Alt text](assets/rmedia/readme_contact_form.png)
 - Contact form adapted from [formsubmit.co](https://formsubmit.co/)  
-- Contact form is hidden by default but activated by Contact/Feedback button.
 - Name, Email Address, and Message inputs are all required for successful form submit.
 - Thank You Page message with return to homepage button. 
  ![form_reply](assets/rmedia/readme_form_reply.png)
