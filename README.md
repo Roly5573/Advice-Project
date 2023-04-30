@@ -7,7 +7,7 @@ This Advice in Havering website is an experimental project, which aims to be mob
 
 Although, primarily focussed on the extensive public advice services provided by Citizens Advice, other charity organisations within the London Borough of Havering, do offer similar assistance, but none with the same extensive National support infrastructure.
 
-You may view the Advice in Havering website [here.](https://roly5573.github.io/Advice-Project)
+You may view the Advice in Havering website [here.](https://roly5573.github.io/Advice-Project/){:target="_blank"} 
 
 
 ## Table of Contents
