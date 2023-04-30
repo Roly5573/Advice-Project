@@ -40,12 +40,17 @@ This web project is aimed at anyone who may require local information or advice.
 
 The site consists of one fully responsive continuous scrolling page, divided into sections, starting with a Header, including the navigation section with a dropdown, together with an animated Hero image. This is then followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer section with web and social media links.
 
+## Design
+
+
+## Colors and Fonts
+
 
 ## Features
 
 - Fully Responsive Navbar consisting of advice telephone number link for mobile, together dropdown links to other sections within the website.
 ![Alt text](assets/images/readme_navbar.png)
-![Alt text](assets/images/readme_navbar_dropdown.png)
+
 - Animated Hero image upon site opening.
 ![Alt text](assets/images/readme_hero_image.png)
 - A search box which integrates with the public search function on the Citizens Advice Website. A homepage link is also here.
@@ -54,15 +59,17 @@ The site consists of one fully responsive continuous scrolling page, divided int
  This is then followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer with links.
 
 
-## Installation and Usage
+## Contact Form
 
 - Detailed instructions on how to download and install the necessary software to run the website.
 - Step-by-step guide to running the website on a local machine.
 - Any other relevant instructions or tips for users who want to use the website.
 
-## Contributing
+## User Experiences
 
 - Guidelines for contributing to the website, including any code standards, processes for submitting pull requests, and information on how to get involved.
 
 ## Testing
+
+## Issues and Bugs
 
