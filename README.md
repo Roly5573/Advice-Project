@@ -7,7 +7,7 @@ This Advice in Havering website is an experimental project, which aims to be mob
 
 Although, primarily focussed on the extensive public advice services provided by Citizens Advice, other charity organisations within the London Borough of Havering, do offer similar assistance, but none with the same extensive National support infrastructure.
 
-You may view the Advice in Havering website [here.](index.html)
+You may view the Advice in Havering website [here.](https://roly5573.github.io/Advice-Project)
 
 
 ## Table of Contents
@@ -28,7 +28,7 @@ You may view the Advice in Havering website [here.](index.html)
 
 ## Target Users
 
-This web project is aimed at anyone who may require local information or advice. Increasingly more people are using the internet on the go via mobile phones, and may not readily access websites on desktop computer, or even tablets.  
+This website project is aimed at anyone who may require information or advice, particularly within the London Borough of Havering. Increasingly more people are using the internet on the go via mobile phones, and may not normally access websites on desktop computers, or even tablets.   
 
 ## Project Goals
 - Ensure website information and advice links are relevant as well as mobile friendly, making browsing and a search process easy for users.
@@ -38,7 +38,7 @@ This web project is aimed at anyone who may require local information or advice.
 
 ## Description
 
-The site consists of one fully responsive continuous scrolling page, divided into sections, starting with a Header, including the navigation section with a dropdown, together with an animated Hero image. This is then followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer section with web and social media links.
+The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of web and social media links.
 
 ## Design
 
@@ -48,7 +48,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 ## Features
 
-- Fully Responsive Navbar consisting of advice telephone number link for mobile, together dropdown links to other sections within the website.
+- Fully Responsive Navbar consisting of advice telephone number link for mobile, and dropdown links to other sections within the website.
 ![navbar](assets/images/readme_navbar.png)
 
 - Animated Hero image upon site opening.
