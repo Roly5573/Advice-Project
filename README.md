@@ -1,7 +1,7 @@
 # Advice Project
 
 This Advice in Havering website is an experimental project, which aims to be mobile friendly, providing easy access to free advice and support information, mainly for the local community. There are also important National telephone and website links.
-![resonsive_display](assets/images/am_i_responsive.png)
+![responsive_display](assets/images/am_i_responsive.png)
 
 
 
@@ -62,10 +62,16 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 
 ## Contact Form
+![Alt text](assets/images/readme_contact_form.png)
+- Contact form adapted from [formsubmit.co](https://formsubmit.co/)  
+- Contact form is hidden by default but activated by Contact/Feedback button.
+- Name, Email Address, and Message inputs are all required for successful form submit.
+- Thank You Page message with return to homepage button. 
+ ![form_reply](assets/images/readme_form_reply.png)
+- Example email message reply.
+![form_email_reply](assets/images/readme_form_email_reply.png)
 
-- Detailed instructions on how to download and install the necessary software to run the website.
-- Step-by-step guide to running the website on a local machine.
-- Any other relevant instructions or tips for users who want to use the website.
+
 
 ## User Experiences
 
