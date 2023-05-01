@@ -20,7 +20,7 @@ You may view the Advice in Havering website
 - [Description](#description)
 - [Design](#design)
 - [Colors and Fonts](#colors-and-fonts)
-- [Features](#features)
+- [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
 - [User Experience](#user-experience)
 - [Testing](#testing)
@@ -50,7 +50,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Main Website Colors chosen for easy visual contrast.
 ![Alt text](assets/rmedia/colorpalette.png)
 
-## Features
+## Main Body Features
 
 - Fully Responsive Navbar consisting of advice telephone number link for mobile, and dropdown links to other sections within the website.
 ![navbar](assets/rmedia/readme_navbar.png)
@@ -60,8 +60,15 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - A search box which integrates with the public search function on the Citizens Advice Website. A homepage link is also here.
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering, 
  ![welcome](assets/rmedia/readme_welcome.png)
-- This is followed by the main body with features including a short embedded video. Finally, it closes with a responsive contact form, and footer with links.
-
+- Brief introduction to Romford Citizens Advice.
+![about_romford](assets/rmedia/readme_about_ca_romford.png)
+- Help and Advice Contacts
+![help_and_advice](assets/rmedia/readme_helpadvice.png)
+- Appointments with booking links
+- Bootstrap cards and submit buttons reconfigured to a consistent fit with images and maps, as well as links for appointment bookings. 
+![Alt text](assets/rmedia/readme_appointments.png)
+- More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard](https://public.flourish.studio/story/1634399/)
+![video](assets/rmedia/readme_video.png)
 
 ## Contact Form
 - Contact form is hidden by default but activated by Contact/Feedback button.
@@ -72,6 +79,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
  ![form_reply](assets/rmedia/readme_form_reply.png)
 - Example email message reply.
 ![form_email_reply](assets/rmedia/readme_form_email_reply.png)
+
 
 
 
