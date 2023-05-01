@@ -150,7 +150,32 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 - Guidelines for contributing to the website, including any code standards, processes for submitting pull requests, and information on how to get involved.
 
-## Testing
+# Testing
+### W3 Validation
+- W3 HTML index.html validator check 01-05-2023
+![Alt text](assets/rmedia/readme_w3_html_validator.png)
+- W3 HTML thankyou.html validator check 01-05-2023
+![Alt text](assets/rmedia/readme_w3_html_page2_validator.png)
+
+- W3 CSS validator check on 01-05-2023
+![Alt text](assets/rmedia/readme_w3_css_validator.png)
+- Website was continuously checked during development using the relevant Tools from Google Chrome, Microsoft Edge, Firefox, and Opera. (I had no access to the Apple Safari Browser).
+- I always stuck to the mobile first principle and this was the guiding factor during the build.
+- Bootstrap elements of containers, rows, and columns, kept any normal working errors at a minimum.
+- Tested using Lighthouse regularly, with variried Performance results.
+### Lighthouse Test 1
+- Microsoft Edge Site Tools (Desktop) 01-05-2023
+![lighthouse_test1](assets/rmedia/readme_lighthouse1.png)
+### Lighthouse Test 2
+- Microsoft Edge Site Tools (Mobile) 01-05-2023
+![lighthouse_test2](assets/rmedia/readme_lighthouse2.png)
+### Lighthouse Test 3
+- Google Chrome 01-05-2023
+![lighthouse_test3](assets/rmedia/readme_lighthouse3.png)
+
+
+
+
 
 
 ## Issues and Bugs
