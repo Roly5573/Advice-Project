@@ -19,9 +19,10 @@ You may view the Advice in Havering website
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
-- [Colors and Fonts](#colors-and-fonts)
+- [Colors](#colors-and-fonts)
 - [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
+- [Footer](#footer)
 - [User Experience](#user-experience)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
@@ -29,17 +30,17 @@ You may view the Advice in Havering website
 
 
 
-## Target Users
+# Targeted Users
 
 This website project is aimed at anyone who may require information or advice, particularly within the London Borough of Havering. Increasingly more people are using the internet on the go via mobile phones, and may not normally access websites on desktop computers, or even tablets.   
 
-## Project Goals
+# Project Goals
 - Ensure website information and advice links are relevant as well as mobile friendly, making browsing and a search process easy for users.
 - Keep the website simple to navigate.
 - Take feedback and suggestions into consideration when expanding features.
 
 
-## Description
+# Description
 
 The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of general advice and social media links.
 
@@ -85,7 +86,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 
 
-## Colors
+# Colors
 - Main Website Colors chosen for easy visual contrast.
 ![color_palette](assets/rmedia/colorpalette.png)
 
@@ -128,7 +129,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Local services with links and Active Telephone numbers for mobile devices.
 ![local_services](assets/rmedia/readme_havering_services.png)
 
-## Contact Form
+# Contact Form
 - Contact form is hidden by default but activated by Contact/Feedback button.
 ![contact form](assets/rmedia/readme_contact_form.png)
 - Contact form adapted from [formsubmit.co](https://formsubmit.co/)  
@@ -138,7 +139,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Example email message reply.
 ![form_email_reply](assets/rmedia/readme_form_email_reply.png)
 
-## Footer
+# Footer
 - General Advice, Government, and Social Media Links.
 ![Alt text](assets/rmedia/readme_footer.png)
 
