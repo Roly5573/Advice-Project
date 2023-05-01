@@ -115,7 +115,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Important advice Links and active Telephone Numbers on mobile devices.
 ![help_and_advice](assets/rmedia/readme_helpadvice.png)
 ## Appointments with booking links
-- Fully Responsive Bootstrap 5.2 cards and submit buttons, reconfigured to a consistent fit with images and maps, as well as links for appointment bookings. 
+- Fully Responsive Bootstrap 5.2 cards and submit buttons, reconfigured to a consistent fit with images and Google Maps, as well as links for appointment bookings. 
 ![appointments](assets/rmedia/readme_appointments.png)
 ## Cost of Living Information and Video
 - More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard](https://public.flourish.studio/story/1634399/)
@@ -134,7 +134,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ![contact form](assets/rmedia/readme_contact_form.png)
 - Contact form adapted from [formsubmit.co](https://formsubmit.co/)  
 - Name, Email Address, and Message inputs are all required for successful form submit.
-- Thank You Page message with return to homepage button. 
+- Thank You Page message with back to homepage button. 
  ![form_reply](assets/rmedia/readme_form_reply.png)
 - Example email message reply.
 ![form_email_reply](assets/rmedia/readme_form_email_reply.png)
@@ -151,6 +151,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Guidelines for contributing to the website, including any code standards, processes for submitting pull requests, and information on how to get involved.
 
 ## Testing
+
 
 ## Issues and Bugs
 
