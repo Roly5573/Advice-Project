@@ -15,7 +15,7 @@ You may view the Advice in Havering website
 ## Table of Contents
 
 
-- [Target Users](#target-users)
+- [Targeted Users](#targeted-users)
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
@@ -41,7 +41,7 @@ This website project is aimed at anyone who may require information or advice, p
 
 ## Description
 
-The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of web and social media links.
+The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of general advice and social media links.
 
 ## Design
 
@@ -51,28 +51,46 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ![Alt text](assets/rmedia/colorpalette.png)
 
 ## Main Body Features
+### Header
+### Logo
+- Simple description logo for navbar.
+![logo](assets/images/logo1.png)
 
+### Navbar
 - Fully Responsive Navbar consisting of advice telephone number link for mobile, and dropdown links to other sections within the website.
 ![navbar](assets/rmedia/readme_navbar.png)
 
+
 - Animated Hero image upon site opening.
 ![hero_image](assets/rmedia/readme_hero_image.png)
+### Welcome
 - A search box which integrates with the public search function on the Citizens Advice Website. A homepage link is also here.
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering, 
  ![welcome](assets/rmedia/readme_welcome.png)
+ ### Introduction to Citizens Advice at Romford
 - Brief introduction to Romford Citizens Advice.
 ![about_romford](assets/rmedia/readme_about_ca_romford.png)
-- Help and Advice Contacts
+### Help and Advice
+- Important advice Links and active Telephone Numbers on mobile devices.
 ![help_and_advice](assets/rmedia/readme_helpadvice.png)
-- Appointments with booking links
-- Bootstrap cards and submit buttons reconfigured to a consistent fit with images and maps, as well as links for appointment bookings. 
-![Alt text](assets/rmedia/readme_appointments.png)
+### Appointments with booking links
+- Fully Responsive Bootstrap 5.2 cards and submit buttons, reconfigured to a consistent fit with images and maps, as well as links for appointment bookings. 
+![appointments](assets/rmedia/readme_appointments.png)
+### Cost of Living Information and Video
 - More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard](https://public.flourish.studio/story/1634399/)
 ![video](assets/rmedia/readme_video.png)
 
+### Havering Information
+- A very brief introduction to the London Borough of Havering.
+![havering_info](assets/rmedia/readme_havering_info.png)
+
+### Advice Services in Havering
+- Local services with links and Active Telephone numbers for mobile devices.
+![local_services](assets/rmedia/readme_havering_services.png)
+
 ## Contact Form
 - Contact form is hidden by default but activated by Contact/Feedback button.
-![Alt text](assets/rmedia/readme_contact_form.png)
+![contact form](assets/rmedia/readme_contact_form.png)
 - Contact form adapted from [formsubmit.co](https://formsubmit.co/)  
 - Name, Email Address, and Message inputs are all required for successful form submit.
 - Thank You Page message with return to homepage button. 
