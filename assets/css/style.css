@@ -32,7 +32,7 @@ body {
 
 .row.container-fluid.info-bar {
   background-color: #005688;
-  color: #FCBB69;
+  color: #fbbd1e;
   font-size: .7rem;
   font-weight: 700;
   padding-left:0;
@@ -67,7 +67,7 @@ a.nav-link {
   color: #005688;
 }
 a.nav-link:hover {
-  color: rgb(231, 12, 12);
+  color: #e70c0c;
 }
 
 .container-fluid {
@@ -77,7 +77,7 @@ a.nav-link:hover {
  .navbar-nav li.nav-item {
   width: 100%;
   text-align:left;
-  color:#005688;
+  color:#00448a;
   font-size: 1rem;
   font-weight: 600;
   background-color:#f8f9fa;
@@ -87,7 +87,7 @@ a.nav-link:hover {
 }
 
 .navbar-toggler {
-  color: #005688;
+  color: #00448a;
   font-size: 1rem;
   margin-right: 8px;
   line-height: 1;
@@ -106,7 +106,7 @@ a.nav-link:hover {
 
 a.nav-link {
   
-  color: rgb(9, 9, 195);
+  color: #00448a;
   padding-right: 2rem;
   padding-left: 1rem;
   font-size:1.1rem ;
@@ -130,7 +130,7 @@ height: 60px;
 
 
 a.dropdown-item {
-  color: rgb(237, 229, 6);
+  color: #fbbd1e;
   font-size: 1.1rem;
   font-weight:bold ;
 }
@@ -276,7 +276,7 @@ h3.center {
 }
 
 .phone {
-  color: #FCBB69;
+  color: #fbbd1e;
   font-weight: bold;
 }
 
@@ -310,7 +310,7 @@ p .card-text {
 .btn-warning {
   color: #004B88;
   font-weight: 600;
-  background-color: #FCBB69;
+  background-color: #fbbd1e;
   
 }
 
@@ -376,7 +376,7 @@ a.tel {
   opacity: 80%;
 }
 a.tel:hover {
-  color: aquamarine;
+  color: aqua;
 }
 
 /* collapsible contact and feedback form */
@@ -427,7 +427,7 @@ a.tel:hover {
 
 h6 {
   
-  color: #FCBB69;
+  color: #fbbd1e;
   font-size: larger;
   font-weight: bold;
 
@@ -469,7 +469,7 @@ div.col.mb-3 {
 }
 .text-underline-hover:hover {
   text-decoration: underline;
-  text-decoration-color: #FCBB69;
+  text-decoration-color: #fbbd1e;
   text-decoration-thickness: 0.2rem;
 } 
 .nav-item.mb-3 {

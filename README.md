@@ -47,7 +47,8 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 
 ## Colors and Fonts
-
+- Main Website Colors chosen for easy visual contrast.
+![Alt text](assets/rmedia/colorpalette.png)
 
 ## Features
 
