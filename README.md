@@ -23,6 +23,7 @@ You may view my Advice in Havering website
 - [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
 - [Footer](#footer)
+- [Deployment](#deployment)
 - [Feedback from Users](#feedback-from-users)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
@@ -47,7 +48,8 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 # Design
 - Initially I used a rough sketch to see what I wanted to achieve. 
-- I started to use [Balsamiq](https://balsamiq.com/wireframes/) to create a layout, but because my site is mainly supplying directory style information with contact links, I found their basic structual layouts not very practical, and decided an ongoing column and row approach to adding contact details was a better solution.
+- I only used [Balsamiq](https://balsamiq.com/wireframes/) to create a layout of the sections of the website.
+- 
 ## Technologies
 - HTML5
 - CSS3
@@ -126,6 +128,15 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - General Advice, Government, and Social Media Links.
 ![Alt text](assets/rmedia/readme_footer.png)
 - All links open in a new tab or window.
+
+# Deployment
+## The Project was deployed as follows:
+
+- Signed in to Git Hub and opened the [Advice-Project Repository](https://github.com/Roly5573/Advice-Project)
+- Selected Settings and navigated to Pages under the Code and Automation menu.
+- Under the Build and Deployment menu, Deploy from a branch was chosen from the Source dropdown.
+- My Branch called main was selected, along with the root of the repository, and saved.
+- A message box informed me that the site was now deployed and live, together with the website link.
 # Feedback from Users
 - First impession is good, but needs more contacts.
 - Plenty of information sources all in one place. Nicely laid out, covers local services with current times and places.
