@@ -135,7 +135,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Selected Settings and navigated to Pages under the Code and Automation menu.
 - Under the Build and Deployment menu, Deploy from a branch was chosen from the Source dropdown.
 - My Branch called main was selected, along with the root of the repository, and saved.
-- A message box informed me that the site was now deployed and live, together with the website link.
+- A message box informed me that the site was now deployed and live, together with the website [link.](https://roly5573.github.io/Advice-Project/)
 # Feedback from Users
 - First impession is good, but needs more contacts.
 - Plenty of information sources all in one place. Nicely laid out, covers local services with current times and places.
@@ -160,13 +160,9 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ### Lighthouse Test 2
 - Microsoft Edge Site Tools (Mobile) 01-05-2023
 ![lighthouse_test2](assets/rmedia/readme_lighthouse2.png)
-### Lighthouse Test 3
-- Google Chrome 01-05-2023
-![lighthouse_test3](assets/rmedia/readme_lighthouse3.png)
-
-### [GTmetrix](https://gtmetrix.com/) Performance Test 02-05-2023
+### Other Online Testing
+ - [GTmetrix](https://gtmetrix.com/) Performance Test 02-05-2023
 ![gtmetrix](assets/rmedia/readme_gtmetrix.png)
-
 
 ### Reponsive Testing
 - The website is fully responsive from a very small xs size of 320px wide, up to a large screen size, although I have only been able to test the site up to 1920px wide. 
