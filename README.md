@@ -19,7 +19,7 @@ You may view my Advice in Havering website
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
-- [Colors](#colors-and-fonts)
+- [Colors](#colors)
 - [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
 - [Footer](#footer)
