@@ -14,7 +14,7 @@ You may view my Advice in Havering website
 
 # Table of Contents
 
-
+- [Advice Project Intro](#advice-project)
 - [Targeted Users](#targeted-users)
 - [Project Goals](#project-goals) 
 - [Description](#description)
@@ -30,8 +30,6 @@ You may view my Advice in Havering website
 - [Future Improvements](#future-improvements)
 - [Credits and Acknowledgements](#credits-and-acknowledgements)
 
-
-
 # Targeted Users
 
 This website project is aimed at anyone who may require information or advice, particularly within the London Borough of Havering. Increasingly more people are using the internet on the go via mobile phones, and may not normally access websites on desktop computers, or even tablets.   
@@ -41,7 +39,6 @@ This website project is aimed at anyone who may require information or advice, p
 - Making browsing and a search process easy for users.
 - Keep the website simple to navigate.
 - Take feedback and suggestions into consideration when expanding features.
-
 
 # Description
 The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of general advice and social media links.
@@ -55,12 +52,12 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ## Technologies
 - HTML5
 - CSS3
-- [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) 
+- [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
 - Bootstrap Javascript CDN (Content Delivery Network) 
 - [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website.
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
-- Adobe Photoshop for image refinement.
-- Downloaded [Irfan View](https://www.irfanview.com/) For easy resizing of photos.
+- Adobe Photoshop used for image refinement.
+- Downloaded [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
 ## Files Structure
 ### Advice Project
 #### home
@@ -134,7 +131,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 # Deployment
 ## The Project was deployed as follows:
 
-- Signed in to Git Hub and opened the [Advice-Project Repository](https://github.com/Roly5573/Advice-Project)
+- Signed in to Git Hub and opened my [Advice-Project Repository](https://github.com/Roly5573/Advice-Project)
 - Selected Settings and navigated to Pages under the Code and Automation menu.
 - Under the Build and Deployment menu, Deploy from a branch was chosen from the Source dropdown.
 - My Branch called main was selected, along with the root of the repository, and saved.
@@ -173,16 +170,22 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - My own up to date copy of Chrome Browser gives a false reponsive reading when checking small widths, such as an iphone 5, displaying an overlap by the footer. This only occurs at that small size.
  ![iphone5_chrome](assets/rmedia/readme_chrome_false_responsive_check.png) 
 - I have tried Chrome on other devices without any issues with any screen sizes. It happens with some online checks also.
-- Initial contact form attempts using a Bootstrap modal, were unsuccessful, and in the end I opted for the hidden space method of a dropdown.
+- Initial contact form attempts using a Bootstrap modal, were unsuccessful, and in the end I opted for the hidden space method of a dropdown, for the Contact Form.
 
 # Future Improvements
-- Expansion of Free Advice Charities and Organisations with access for local people.
-
-
-# Credits and Acknowledgements
+- Expansion of website including other Charities and Organisations offering Free Advice.
+- Create a directory for the website from current public information sources for ease of access.
+- Provide links for important public announcements.
+ # Credits and Acknowledgements
 ## Photo Credits
 - The Hero picture is a photograph of a painting credited to the artist Louis Burleigh Bruhl circa 1891. 
 - Used from flickr by badgreeb pictures with a Creative Commons Attribution-ShareAlike (CC BY-SA 2.0).
 - Research is ongoing to find the source of the original painting.  
 - All other photographs are my own, with the exception of The Havering Association for Disabled Peoples as used in the Appointments section of the website. This is from Google Maps.
 
+## Inspiration
+- I would like to say a huge thank you to Iris at Code Institute, for her endless enthusiasm, good humour, and encouragement, in her drive to get the course project completed. 
+- Also to Marcel, my mentor, whose technical insight has been instumental in guiding me throughout the project. 
+
+
+ [Return to Table of Contents](#table-of-contents)
