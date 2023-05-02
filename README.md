@@ -184,7 +184,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - All other photographs are my own, with the exception of The Havering Association for Disabled Peoples as used in the Appointments section of the website. This is from Google Maps.
 
 ## Inspiration
-- I would like to say a huge thank you to Iris at Code Institute, for her endless enthusiasm, good humour, and encouragement, in her drive to get the course project completed. 
+- I would like to say a huge thank you to Iris at Code Institute, for endless enthusiasm, good humour, and encouragement, in her drive to get the course project completed. 
 - Also to Marcel, my mentor, whose technical insight has been instumental in guiding me throughout the project. 
 
 
