@@ -111,7 +111,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ## Havering Information
 - A very brief introduction to the London Borough of Havering.
 ![havering_info](assets/rmedia/readme_havering_info.png)
-## Advice Services in Havering
+## Local Services in Havering
 - Local services with links and Active Telephone numbers for mobile devices.
 ![local_services](assets/rmedia/readme_havering_services.png)
 # Contact Form
@@ -163,6 +163,11 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ### Lighthouse Test 3
 - Google Chrome 01-05-2023
 ![lighthouse_test3](assets/rmedia/readme_lighthouse3.png)
+
+### [GTmetrix](https://gtmetrix.com/) Performance Test 02-05-2023
+![gtmetrix](assets/rmedia/readme_gtmetrix.png)
+
+
 ### Reponsive Testing
 - The website is fully responsive from a very small xs size of 320px wide, up to a large screen size, although I have only been able to test the site up to 1920px wide. 
 ![responsive_display](assets/rmedia/readme_responsive_check.png)
