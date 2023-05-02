@@ -49,7 +49,9 @@ The site consists of one fully responsive continuous scrolling page, divided int
 # Design
 - Initially I used a rough sketch to see what I wanted to achieve. 
 - I only used [Balsamiq](https://balsamiq.com/wireframes/) to create a layout of the sections of the website.
-- 
+ ![Alt text](assets/rmedia/readme_frame1and2.png)
+ ![Alt text](assets/rmedia/readme_frame3and4.png)
+
 ## Technologies
 - HTML5
 - CSS3
@@ -76,7 +78,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 
 # Colors
 - Main Website Colors chosen for easy visual contrast.
-![color_palette](assets/rmedia/colorpalette.png)
+![color_palette](assets/rmedia/readme_colorpalette.png)
 
 # Main Body Features
 ## Header Section
