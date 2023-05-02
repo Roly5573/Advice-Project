@@ -23,11 +23,11 @@ You may view my Advice in Havering website
 - [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
 - [Footer](#footer)
-- [Feedback from Users](#feedback_from_users)
+- [Feedback from Users](#feedback-from-users)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
-- [Future Improvements](#future_improvements)
-- [Credits and Acknowledgements](#credits_and_acknowledgements)
+- [Future Improvements](#future-improvements)
+- [Credits and Acknowledgements](#credits-and-acknowledgements)
 
 
 
