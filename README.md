@@ -5,7 +5,7 @@ This Advice in Havering website is an experimental project, which aims to be mob
 
 
 
-Although the site is primarily focussed on the extensive public advice services provided by Citizens Advice, other charity organisations within the London Borough of Havering, do offer similar assistance to the public, but none with the same extensive National support infrastructure.
+Although the site is primarily focused on the extensive public advice services provided by Citizens Advice, there are other charity organisations within the London Borough of Havering, who offer similar assistance to the public, but none with the same extensive National support infrastructure.
 
 You may view my Advice in Havering website 
 [here.](https://roly5573.github.io/Advice-Project/)
@@ -43,7 +43,7 @@ You may view my Advice in Havering website
 - As a Frequent User, I would like to see if there is any new contact information.
 
 # Project Goals
-- Ensure website information and advice links are relevant as well as mobile friendly 
+- Ensure website information and advice links are relevant as well as mobile friendly. 
 - Making browsing and a search process easy for users.
 - Keep the website simple to navigate.
 - Take feedback and suggestions into consideration when expanding features.
@@ -61,7 +61,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - HTML5
 - CSS3
 - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
-- Bootstrap Javascript CDN (Content Delivery Network) 
+- Bootstrap Javascript CDN (Content Delivery Network). 
 - [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website.
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
 - Adobe Photoshop used for image refinement.
@@ -98,22 +98,23 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Animated Hero image upon site opening.
 ![hero_image](assets/rmedia/readme_hero_image.png)
 - Photograph of a painting credited to the artist Louis Burleigh Bruhl circa 1891. 	
-- Attribution-ShareAlike (CC BY-SA 2.0)
-- A search box which integrates with the public search function on the Citizens Advice Website. Here is a link to the main [Citizens Advice Homepage](https://www.citizensadvice.org.uk)
+- Attribution-ShareAlike (CC BY-SA 2.0).
+- A search box which integrates with the public search function on the Citizens Advice Website. Here is a link to the main [Citizens Advice Homepage.](https://www.citizensadvice.org.uk)
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering.
 - The table creation was inspired by an exercise from the Bootstrap Whiskey course material. 
  ![welcome](assets/rmedia/readme_welcome.png)
+ - [Read more about Citizens Advice](https://www.citizensadvice.org.uk/about-us/about-us1/introduction-to-the-citizens-advice-service/)
  ## Introduction to Citizens Advice at Romford
 - Brief introduction to Citizens Advice in Romford including a map for directions.
 ![about_romford](assets/rmedia/readme_about_ca_romford.png)
 ## Help and Advice
-- These are mostly Important public Citizens Advice Links which include some active Telephone Numbers available to be called by touch on mobile devices.
+- Mostly public Citizens Advice Links which include some active Telephone Numbers available for mobile devices.
 ![help_and_advice](assets/rmedia/readme_helpadvice.png)
 ## Appointments with booking links
 - Fully Responsive Bootstrap 5.2 cards and submit buttons, reconfigured to a consistent fit with images and Google Maps, as well as links for appointment bookings. 
 ![appointments](assets/rmedia/readme_appointments.png)
 ## Cost of Living Information and Video
-- More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard](https://public.flourish.studio/story/1634399/)
+- More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard.](https://public.flourish.studio/story/1634399/)
 ![video](assets/rmedia/readme_video.png)
 - video can be played on device, or on Youtube via the button link.
 ## Havering Information
@@ -150,7 +151,26 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Nice website, could you add HMRC contacts, please?
 
 # Testing
-### W3 Validation
+## Testing User Experience (UX)
+### First Time Visit
+1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
+- The purpose of the website is to provide information and contacts of the free advice and support services available to the public.
+2. As a First Time Visitor to the site, I would like to navigate through the site content easily.
+- Navigation of the website is very easy and starts with links available from the Navbar. The site is a scrollable page, and the advice sections are clearly seperated, firstly with Citizens Advice related services, followed by localised services within Havering.
+3. As a First Time Visitor to the site, I would like to find out more about Citizens Advice.
+- You can use this [link](https://www.citizensadvice.org.uk/about-us/about-us1/introduction-to-the-citizens-advice-service/) which takes you to the About Page of Citizens Advice. This link can be found in the Welcome Section of the website
+### Returning Visitor Goals
+1. As a Returning Visitor I want to contact the a Local Authority.
+- If you wish to contact Havering Council, you can navigate to the Local Havering Services Section. For any other Local Authority in London, there is a link in the footer section, to the London Councils Website.
+2. As a Returning Visitor I want to find help regarding housing.
+- Citizens Advice have highly qualified advisers who can help, and there are also contact details, in the Help and Advice section of the website, for Shelter, a national housing advice service, who provide free and comprehensive housing advice.
+3. As a Returning Visitor I want to find out how to send a message and ask any questions.
+- A contact and Feedback form is available for questions, suggestions and feedback.
+### Frequent User Goals
+1. As a Frequent User, I would like to see if there is any new contact information.
+- New contacts and information will be added once the sources can be verified.
+
+ ### W3 Validation
 - W3 HTML index.html validator check 01-05-2023
 ![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
 - W3 HTML thankyou.html validator check 01-05-2023
