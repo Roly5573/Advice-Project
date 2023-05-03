@@ -65,7 +65,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website.
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
 - Adobe Photoshop used for image refinement.
-- Downloaded [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
+- Used [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
 ## Files Structure
 ### Advice Project
 #### home
