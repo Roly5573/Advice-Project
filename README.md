@@ -51,7 +51,7 @@ You may view my Advice in Havering website
 - Take feedback and suggestions into consideration when expanding features.
 
 # Description
-The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a responsive contact form, and footer section consisting of general advice and social media links.
+The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a collapsible responsive contact form, and footer section consisting of general advice and social media links.
 
 # Design
 - Initially I used a rough sketch to see what I wanted to achieve. 
@@ -126,7 +126,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Local services with links and Active Telephone numbers for mobile devices.
 ![local_services](assets/rmedia/readme_havering_services.png)
 # Contact Form
-- Contact form is hidden by default but activated by Contact/Feedback button.
+- Contact form is collapsed by default, but activated by Contact/Feedback button.
 ![contact form](assets/rmedia/readme_contact_form.png)
 - Contact form freely available and adapted for use from [formsubmit.co](https://formsubmit.co/)  
 - Name, Email Address, and Message inputs are all required for successful form submit.
