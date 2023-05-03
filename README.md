@@ -15,7 +15,7 @@ You may view my Advice in Havering website
 # Table of Contents
 
 - [Advice Project Intro](#advice-project)
-- [Targeted Users](#targeted-users)
+- [User Experience (UX)](#user-experience)
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
@@ -30,9 +30,17 @@ You may view my Advice in Havering website
 - [Future Improvements](#future-improvements)
 - [Credits and Acknowledgements](#credits-and-acknowledgements)
 
-# Targeted Users
-
-This website project is aimed at anyone who may require information or advice, particularly within the London Borough of Havering. Increasingly more people are using the internet on the go via mobile phones, and may not normally access websites on desktop computers, or even tablets.   
+# User Experience (UX)
+## First Time Visitor Goals
+- As a First Time Visitor to the site, I want to know what the purpose of the site is.
+- As a First Time Visitor to the site, I would like to navigate through the site content easily.
+- As a First Time Visitor to the site, I would like to find out more about Citizens Advice.
+## Returning Visitor Goals
+- As a Returning Visitor I want to contact the the Local Authority.
+- As a Returning Visitor I would like to find help regarding housing.
+- As a Returning Visitor I would like to get in contact to ask any questions that I may have.
+## Frequent User Goals
+- As a Frequent User, I would like to see if there is any new contact information.
 
 # Project Goals
 - Ensure website information and advice links are relevant as well as mobile friendly 
@@ -46,8 +54,8 @@ The site consists of one fully responsive continuous scrolling page, divided int
 # Design
 - Initially I used a rough sketch to see what I wanted to achieve. 
 - I only used [Balsamiq](https://balsamiq.com/wireframes/) to create a layout of the sections of the website.
- ![Alt text](assets/rmedia/readme_frame1and2.png)
- ![Alt text](assets/rmedia/readme_frame3and4.png)
+ ![1st_and_2nd_frames](assets/rmedia/readme_frame1and2.png)
+ ![3rd_and_4th_frames](assets/rmedia/readme_frame3and4.png)
 
 ## Technologies
 - HTML5
@@ -125,7 +133,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ![form_email_reply](assets/rmedia/readme_form_email_reply.png)
 # Footer
 - General Advice, Government, and Social Media Links.
-![Alt text](assets/rmedia/readme_footer.png)
+![footer](assets/rmedia/readme_footer.png)
 - All links open in a new tab or window.
 
 # Deployment
