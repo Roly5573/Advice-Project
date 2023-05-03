@@ -19,6 +19,8 @@ You may view my Advice in Havering website
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
+- [Technologies](#technologies)
+- [Files Structure](#files-structure)
 - [Colors](#colors)
 - [Main Body Features](#main-body-features)
 - [Contact Form](#contact-form)
@@ -57,7 +59,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
  ![1st_and_2nd_frames](assets/rmedia/readme_frame1and2.png)
  ![3rd_and_4th_frames](assets/rmedia/readme_frame3and4.png)
 
-## Technologies
+# Technologies
 - HTML5
 - CSS3
 - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
@@ -66,19 +68,19 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
 - Adobe Photoshop used for image refinement.
 - Used [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
-## Files Structure
-### Advice Project
-#### home
+# Files Structure
+## Advice Project
+### home
 - [index.html](https://github.com/Roly5573/Advice-Project/blob/main/index.html)
-#### assets
+### assets
 - [css](https://github.com/Roly5573/Advice-Project/tree/main/assets/css/)
 - [images](https://github.com/Roly5573/Advice-Project/tree/main/assets/images)
 - [rmedia](https://github.com/Roly5573/Advice-Project/tree/main/assets/rmedia)
 - [videos](https://github.com/Roly5573/Advice-Project/tree/main/assets/videos)
-#### pages
+### pages
 - [thankyou.html](https://github.com/Roly5573/Advice-Project/blob/main/pages/thankyou.html)
 
-#### README
+### README
 - [README.md](https://github.com/Roly5573/Advice-Project/blob/main/README.md)
 
 # Colors
