@@ -24,9 +24,9 @@ You may view my Advice in Havering website
 - [Contact Form](#contact-form)
 - [Footer](#footer)
 - [Deployment](#deployment)
-- [Feedback from Users](#feedback-from-users)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
+- [Testing User Experience (UX)](#testing-user-experience-ux)
 - [Future Improvements](#future-improvements)
 - [Credits and Acknowledgements](#credits-and-acknowledgements)
 
@@ -145,32 +145,9 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Under the Build and Deployment menu, Deploy from a branch was chosen from the Source dropdown.
 - My Branch called main was selected, along with the root of the repository, and saved.
 - A message box informed me that the site was now deployed and live, together with the website [link.](https://roly5573.github.io/Advice-Project/)
-# Feedback from Users
-- First impession is good, but needs more contacts.
-- Plenty of information sources all in one place. Nicely laid out, covers local services with current times and places.
-- Nice website, could you add HMRC contacts, please?
 
 # Testing
-## Testing User Experience (UX)
-### First Time Visit
-1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
-- The purpose of the website is to provide information and contacts of the free advice and support services available to the public.
-2. As a First Time Visitor to the site, I would like to navigate through the site content easily.
-- Navigation of the website is very easy and starts with links available from the Navbar. The site is a scrollable page, and the advice sections are clearly seperated, firstly with Citizens Advice related services, followed by localised services within Havering.
-3. As a First Time Visitor to the site, I would like to find out more about Citizens Advice.
-- You can use this [link](https://www.citizensadvice.org.uk/about-us/about-us1/introduction-to-the-citizens-advice-service/) which takes you to the About Page of Citizens Advice. This link can be found in the Welcome Section of the website
-### Returning Visitor Goals
-1. As a Returning Visitor I want to contact the a Local Authority.
-- If you wish to contact Havering Council, you can navigate to the Local Havering Services Section. For any other Local Authority in London, there is a link in the footer section, to the London Councils Website.
-2. As a Returning Visitor I want to find help regarding housing.
-- Citizens Advice have highly qualified advisers who can help, and there are also contact details, in the Help and Advice section of the website, for Shelter, a national housing advice service, who provide free and comprehensive housing advice.
-3. As a Returning Visitor I want to find out how to send a message and ask any questions.
-- A contact and Feedback form is available for questions, suggestions and feedback.
-### Frequent User Goals
-1. As a Frequent User, I would like to see if there is any new contact information.
-- New contacts and information will be added once the sources can be verified.
-
- ### W3 Validation
+### W3 Validation
 - W3 HTML index.html validator check 01-05-2023
 ![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
 - W3 HTML thankyou.html validator check 01-05-2023
@@ -200,7 +177,24 @@ The site consists of one fully responsive continuous scrolling page, divided int
  ![iphone5_chrome](assets/rmedia/readme_chrome_false_responsive_check.png) 
 - I have tried Chrome on other devices without any issues with any screen sizes. It happens with some online checks also.
 - Initial contact form attempts using a Bootstrap modal, were unsuccessful, and in the end I opted for the hidden space method of a dropdown, for the Contact Form.
-
+# Testing User Experience (UX)
+### First Time Visit
+1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
+- The purpose of the website is to provide information and contacts of the free advice and support services available to the public.
+2. As a First Time Visitor to the site, I would like to navigate through the site content easily.
+- Navigation of the website is very easy and starts with links available from the Navbar. The site is a scrollable page, and the advice sections are clearly seperated, firstly with Citizens Advice related services, followed by localised services within Havering.
+3. As a First Time Visitor to the site, I would like to find out more about Citizens Advice.
+- You can use this [link](https://www.citizensadvice.org.uk/about-us/about-us1/introduction-to-the-citizens-advice-service/) which takes you to the About Page of Citizens Advice. This link can be found in the Welcome Section of the website
+### Returning Visitor Goals
+1. As a Returning Visitor I want to contact the a Local Authority.
+- If you wish to contact Havering Council, you can navigate to the Local Havering Services Section. For any other Local Authority in London, there is a link in the footer section, to the London Councils Website.
+2. As a Returning Visitor I want to find help regarding housing.
+- Citizens Advice have highly qualified advisers who can help, and there are also contact details, in the Help and Advice section of the website, for Shelter, a national housing advice service, who provide free and comprehensive housing advice.
+3. As a Returning Visitor I want to find out how to send a message and ask any questions.
+- A contact and Feedback form is available for questions, suggestions and feedback.
+### Frequent User Goals
+1. As a Frequent User, I would like to see if there is any new contact information.
+- New contacts and information will be added once the sources can be verified.
 # Future Improvements
 - Expansion of website including other Charities and Organisations offering Free Advice.
 - Create a directory for the website from current public information sources for ease of access.
@@ -212,7 +206,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Research is ongoing to find the source of the original painting.  
 - All other photographs are my own, with the exception of The Havering Association for Disabled Peoples as used in the Appointments section of the website. This is from Google Maps.
 
-## Inspiration
+## Appreciation
 - I would like to say a huge thank you to Iris at Code Institute, for endless enthusiasm, good humour, and encouragement, in her drive to get the course project completed. 
 - Also to Marcel, my mentor, whose technical insight has been instumental in guiding me throughout the project. 
 
