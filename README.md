@@ -15,7 +15,7 @@ You may view my Advice in Havering website
 # Table of Contents
 
 - [Advice Project Intro](#advice-project)
-- [User Experience (UX)](#user-experience)
+- [User Experience (UX)](#user-experience-ux)
 - [Project Goals](#project-goals) 
 - [Description](#description)
 - [Design](#design)
