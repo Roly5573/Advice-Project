@@ -295,33 +295,42 @@ h2.romford {
 	font-weight: 700;
 }
 
-/*  Outreach offices and Appointments bookings */
+/* Citizens Advice Appointment Bookings at Outreach Offices */
+
+h2#appointments {
+	margin-top: 70px;
+	margin-bottom: 10px;
+	color: #ffffff;
+}
+
 
 .card-body {
-  background-color:#e5f0e5;
+	background-color: #f8f9fa;
+	scroll-margin-top: 100px;
 }
+
 .card-title {
-  font-size: 1rem;
-  font-weight: bold;
+	font-size: 1rem;
+	font-weight: bold;
 }
 
 .col-xl-3.col-xxl-3 {
-  padding: 20px;
+	padding: 20px;
 }
+
 p .card-text {
-  padding-left:0;
+	padding-left: 0;
 }
 
 .border-primary {
-  border-color:#2E639A !important;
-  border-radius: 10px;
+	border-color: #2E639A !important;
+	border-radius: 10px;
 }
 
 .btn-warning {
-  color: #004B88;
-  font-weight: 600;
-  background-color: #fbbd1e;
-  
+	color: #004B88;
+	font-weight: 600;
+	background-color: #fbbd1e;
 }
 
 /* Embedded Citizens Advice Cost-of-Living video. */
