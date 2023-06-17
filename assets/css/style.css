@@ -264,9 +264,12 @@ h3.center {
 
 /* Help & Advice Section */
 
-.center {
-  color: #ffffff;
-  
+.advice-center {
+	color: #ffffff;
+	text-align: center;
+	scroll-margin-top: 100px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 }
 
 .row.row-cols-1.advice {
