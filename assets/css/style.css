@@ -359,48 +359,64 @@ div.card.container.card-img-top.rounded-border {
 }
 
 
-/* Havering and local services information */
+/* Havering Information */
 
-h3 {
-  color: #ffffff;
-  text-align: center;
-  padding-top: 1rem;
+#havering-info {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	scroll-margin-top: 100px;
 }
+
+.rounded-5.border.border-primary {
+	margin-bottom: 30px;
+}
+
+/* Local Services in Havering */
+
+h3.local-services {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
 div.center-text.bottom-section {
-  width: 100%;
-  text-align: center;
-  margin:0 auto 0 auto;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto 0 auto;
 }
 
 .col-sm-6.border.border-warning.text-break {
-  background-color: #00448a;
+	background-color: #00448a;
 }
 
 
 div.container.grid.services {
-height: auto;
-margin-bottom: 400px;
-color: #ffffff;
-text-align: center;
-padding-bottom: 2rem;
+	height: auto;
+	margin-bottom: 400px;
+	color: #ffffff;
+	text-align: center;
+	padding-bottom: 2rem;
 }
 
-@media (min-width: 576px){ 
-div.container.grid.services {
-height: auto;
-margin-bottom: 100px;
-color: #ffffff;
-text-align: center;
-}
+@media (min-width: 576px) {
+	div.container.grid.services {
+		height: auto;
+		margin-bottom: 100px;
+		color: #ffffff;
+		text-align: center;
+	}
 }
 
 a.tel {
-  color: aliceblue;
-  opacity: 80%;
+	color: #f8f9fa;
+	opacity: 80%;
 }
+
 a.tel:hover {
-  color: aqua;
+	color:#00ffff;
 }
+
 
 /* collapsible contact and feedback form */
 div.container.text-center.feedback {
