@@ -266,6 +266,10 @@ h2.romford {
 
 /* Help & Advice Section */
 
+h6 {
+  padding-top: .75rem;
+}
+
 .advice-center {
 	color: #ffffff;
 	text-align: center;
@@ -298,15 +302,16 @@ h2.romford {
 /* Citizens Advice Appointment Bookings at Outreach Offices */
 
 h2#appointments {
-	margin-top: 70px;
+  margin-top: 70px;
 	margin-bottom: 10px;
 	color: #ffffff;
 }
 
 
 .card-body {
+  scroll-margin-top: 100px;
 	background-color: #f8f9fa;
-	scroll-margin-top: 100px;
+	
 }
 
 .card-title {
