@@ -420,29 +420,30 @@ a.tel:hover {
 
 /* collapsible contact and feedback form */
 div.container.text-center.feedback {
-  padding-top: 50px;
-  position:relative;
-  margin-top: 210px;
-  width: 720px;
+	padding-top: 70px;
+	position: relative;
+	margin-top: 250px;
+	width: 720px;
 }
 
 button.contact.btn.btn-warning {
-  position: sticky;
+	position: sticky;
 }
+
 .mb-3.text-start {
-  color: #ffffff;
+	color: #ffffff;
 }
 
 #name.form-control {
-  background-color:#e5f0e5;
+	background-color: #f8f9fa;
 }
 
 #emailaddress.form-control {
-  background-color:#e5f0e5;
+	background-color: #f8f9fa;
 }
 
- #message.form-control {
-  background-color:#e5f0e5;
+#message.form-control {
+	background-color: #f8f9fa;
 }
 
 
