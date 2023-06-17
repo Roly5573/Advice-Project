@@ -335,23 +335,27 @@ p .card-text {
 
 /* Embedded Citizens Advice Cost-of-Living video. */
 
-div.container.video {
-  text-align: center;
-  width: 720px;
-  }
+h3.more-about {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
 
-h4 {
-  color: #ffffff;
-  text-align: center;
-  padding-top:2rem ;
+div.container.video {
+	text-align: center;
+	width: 720px;
 }
+
+
 .video.btn.btn-warning {
-  text-align: center;
+	text-align: center;
 }
+
 div.card.container.card-img-top.rounded-border {
-  border-radius: 10px;
-  border-width: 5px;
-margin-bottom: 1rem;
+	border-radius: 10px;
+	border-width: 5px;
+	margin-bottom: 1rem;
 }
 
 
