@@ -126,7 +126,7 @@ There is no site photo or media gallery, to display, which would have made sense
 ## Havering Information
 - A very brief introduction to the London Borough of Havering.
 ![havering_info](assets/rmedia/readme_havering_info.png)
-## Local Services in Havering
+## Local Services within Havering
 - Local services with links and Active Telephone numbers for mobile devices.
 ![local_services](assets/rmedia/readme_havering_services.png)
 # Contact Form
@@ -153,29 +153,37 @@ There is no site photo or media gallery, to display, which would have made sense
 - A message box informed me that the site was now deployed and live, together with the website [link.](https://roly5573.github.io/Advice-Project/)
 
 # Testing
-### W3 Validation
-- W3 HTML index.html validator check 03-05-2023
-![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
-- W3 HTML thankyou.html validator check 03-05-2023
-![w3_thankyou_html_validation](assets/rmedia/readme_w3_html_page2_validator.png)
-
-- W3 CSS validator check on 03-05-2023
-![w3_css_validation](assets/rmedia/readme_w3_css_validator.png)
 - Website was continuously checked during development using the relevant Tools from Google Chrome, Microsoft Edge, Firefox, and Opera. (I had no access to the Apple Safari Browser).
 - I always stuck to the mobile first principle and this was the guiding factor during the build.
 - Bootstrap elements of containers, rows, and columns, kept any normal working errors at a minimum.
 - Tested using Lighthouse regularly, with variried Performance results.
-### Lighthouse Test 1
-- Microsoft Edge Site Tools (Desktop) 03-05-2023
+## [Chrome DevTools ](https://developer.chrome.com/docs/devtools/)
+- Chrome DevTools used throughout the process of building the site, to test and modify html elements and css styles.
+## W3 Validation
+## [W3 HTML Validation Check](https://validator.w3.org/)
+- W3 HTML index.html validator check 17-06-2023
+![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
+- W3 HTML thankyou.html validator check 17-06-2023
+![w3_thankyou_html_validation](assets/rmedia/readme_w3_html_page2_validator.png)
+
+## [W3 CSS Validation Check](https://jigsaw.w3.org/css-validator/)
+
+- W3 CSS validator check on 17-06-2023
+
+![w3_css_validation](assets/rmedia/readme_w3_css_validator.png)
+
+## Lighthouse Test 1
+- Microsoft Edge Site Tools (Desktop) 17-06-2023
 ![lighthouse_test1](assets/rmedia/readme_lighthouse1.png)
-### Lighthouse Test 2
-- Microsoft Edge Site Tools (Mobile) 03-05-2023
+## Lighthouse Test 2
+- Microsoft Edge Site Tools (Mobile) 17-06-2023
 ![lighthouse_test2](assets/rmedia/readme_lighthouse2.png)
-### Other Online Testing
- - [GTmetrix](https://gtmetrix.com/) Performance Test 02-05-2023
+## Other Online Testing
+ ### [GTmetrix](https://gtmetrix.com/) 
+ - Performance Test 17-06-2023
 ![gtmetrix](assets/rmedia/readme_gtmetrix.png)
 
-### Reponsive Testing
+## Reponsive Testing
 - The website is fully responsive from a very small xs size of 320px wide, up to a large screen size, although I have only been able to test the site up to 1920px wide. 
 ![responsive_display](assets/rmedia/readme_responsive_check.png)
 # Issues and Bugs
@@ -186,7 +194,7 @@ There is no site photo or media gallery, to display, which would have made sense
 # Testing User Experience (UX)
 ### First Time Visit
 1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
-- The purpose of the website is to provide information and contacts of the free advice and support services available to the public.
+- The purpose of the website is to provide information and contacts of the free advice and support services available to the public, mainly within the London Borough of London, but some important national advice contacts are also available.
 2. As a First Time Visitor to the site, I would like to navigate through the site content easily.
 - Navigation of the website is very easy and starts with links available from the Navbar. The site is a scrollable page, and the advice sections are clearly seperated, firstly with Citizens Advice related services, followed by localised services within Havering.
 3. As a First Time Visitor to the site, I would like to find out more about Citizens Advice.
