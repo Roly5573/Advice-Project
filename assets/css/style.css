@@ -508,8 +508,8 @@ div.col.mb-3 {
   
 }
 .text-underline-hover:hover {
-  text-decoration: underline;
-  text-decoration-color: #fbbd1e;
+  text-decoration:underline;
+  text-decoration-color: #00ffff;
   text-decoration-thickness: 0.2rem;
 } 
 .nav-item.mb-3 {
