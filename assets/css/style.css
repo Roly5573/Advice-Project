@@ -275,19 +275,24 @@ h2.romford {
 }
 
 .row.row-cols-1.advice {
-  background-color:#00448a;
-  height: 100%;
-  margin-bottom: 2rem;
+	background-color: #00448a;
+	height: 100%;
+	margin-bottom: 20px;
+}
+
+.ca-link {
+	font-size: large;
 }
 
 .phone {
-  color: #fbbd1e;
-  font-weight: bold;
+	color: #fbbd1e;
+	font-weight: bold;
+  font-size: large;
 }
 
 .number {
-  color: #ffffff;
-  font-weight: 700;
+	color: #ffffff;
+	font-weight: 700;
 }
 
 /*  Outreach offices and Appointments bookings */
