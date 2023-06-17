@@ -241,27 +241,27 @@ table.container.table.table-bordered {
 }
 
 
-/* Romford Section */
+/* Citizens Advice in Romford Section */
 
-h3.center {
-  text-align:center;
-  
+h2.romford {
+	margin-top: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #ffffff
 }
 
-.rom_libray_image.rounded-2{
-  width: 100%;
-  max-width: 250px;
-  float: left;
-  padding-right: 10px;
- 
+.rom_libray_image.rounded-2 {
+	width: 100%;
+	max-width: 250px;
+	float: left;
+	padding-right: 10px;
 }
 
 .romford-map.rounded-2 {
-  width: 250px;
-  float:right;
-  padding-left: 5px;
-  margin-bottom:5px;
- 
+	width: 250px;
+	float: right;
+	padding-left: 5px;
+	margin-bottom: 5px;
 }
 
 /* Help & Advice Section */
