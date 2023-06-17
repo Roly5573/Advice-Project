@@ -1,41 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700;800&display=swap');
 
 * {
-    margin: 0;
-  padding: 0;
-    border: 0;
+	margin: 0;
+	padding: 0;
+	border: 0;
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    height: auto;
-    padding-bottom:1700px;
+	font-family: 'Open Sans', sans-serif;
+	height: auto;
+	padding-bottom: 1700px;
 }
+
 /* Fixed Top Section */
 .row {
-   height: 100px;
-   width: 100%;
-   margin-left: 0px;
+	height: 100px;
+	width: 100%;
+	margin-left: 0px;
 }
 
 .fixed-top {
-    position:fixed;
-    width: 100%;
-    height: 60px;
-   }
+	position: fixed;
+	width: 100%;
+	height: 60px;
+}
 
-   p.adviceline {
-    text-align:left;
-    padding-top: 5px;
-    font-size: .8rem;
-   }
+p.adviceline {
+	text-align: left;
+	padding-top: 5px;
+	font-size: .8rem;
+}
 
 .row.container-fluid.info-bar {
-  background-color: #005688;
-  color: #fbbd1e;
-  font-size: .7rem;
-  font-weight: 700;
-  padding-left:0;
+	background-color: #005688;
+	color: #fbbd1e;
+	font-size: .7rem;
+	font-weight: 700;
+	padding-left: 0;
 }
 
 /* Navbar Styling and Dropdown */
@@ -141,40 +142,40 @@ a.dropdown-item {
 		;
 	}
 }
+
 /* Hero Image and Animation */
 
-#hero-image{
-  position: relative;
-  max-width: 100%;
-  height:auto;
-  overflow: hidden;
-  padding: 100px 15px 10px 15px;
-   
+#hero-image {
+	position: relative;
+	max-width: 100%;
+	height: auto;
+	overflow: hidden;
+	padding: 100px 15px 10px 15px;
 
-  animation-name: hero-zoom;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
+
+	animation-name: hero-zoom;
+	animation-duration: 2s;
+	animation-fill-mode: forwards;
 }
-
 
 
 #hero-outer {
-  position: relative;
-  max-width: 100%;
-  overflow: hidden;
-  height:auto;
- 
-  
-  
+	position: relative;
+	max-width: 100%;
+	overflow: hidden;
+	height: auto;
+
+
 }
 
 @keyframes hero-zoom {
-  from {
-    transform: scale(1);
-  }
-  to {
-    transform: scale(1.4);
-  }
+	from {
+		transform: scale(1);
+	}
+
+	to {
+		transform: scale(1.4);
+	}
 }
 
 /* Searchbar and website link */
@@ -186,7 +187,7 @@ a.dropdown-item {
 }
 
 a:hover {
-	color:#00ffff;
+	color: #00ffff;
 }
 
 .d-flex {
@@ -267,7 +268,10 @@ h2.romford {
 /* Help & Advice Section */
 
 h6 {
-  padding-top: .75rem;
+	padding-top: .75rem;
+	color: #fbbd1e;
+	font-size: larger;
+	font-weight: bold;
 }
 
 .advice-center {
@@ -291,7 +295,7 @@ h6 {
 .phone {
 	color: #fbbd1e;
 	font-weight: bold;
-  font-size: large;
+	font-size: large;
 }
 
 .number {
@@ -302,16 +306,16 @@ h6 {
 /* Citizens Advice Appointment Bookings at Outreach Offices */
 
 h2#appointments {
-  margin-top: 70px;
+	margin-top: 70px;
 	margin-bottom: 10px;
 	color: #ffffff;
 }
 
 
 .card-body {
-  scroll-margin-top: 100px;
+	scroll-margin-top: 100px;
 	background-color: #f8f9fa;
-	
+
 }
 
 .card-title {
@@ -419,7 +423,7 @@ a.tel {
 }
 
 a.tel:hover {
-	color:#00ffff;
+	color: #00ffff;
 }
 
 
@@ -452,83 +456,79 @@ button.contact.btn.btn-warning {
 }
 
 
-
-
-
 /* no finger touch/no call access for tablets and desktops */
-@media(min-width:  550px) {
-a.tel  { color: #ddd5d5; 
-        cursor: default;
-      text-decoration: none;  }
-a.tel:hover {
-          color:#ddd5d5;
-          cursor: default;
-        text-decoration: none;}
-}
+@media(min-width: 550px) {
+	a.tel {
+		color: #ddd5d5;
+		cursor: default;
+		text-decoration: none;
+	}
 
+	a.tel:hover {
+		color: #ddd5d5;
+		cursor: default;
+		text-decoration: none;
+	}
+}
 
 
 /* footer styling */
 
-h6 {
-  
-  color: #fbbd1e;
-  font-size: larger;
-  font-weight: bold;
-
-}
 
 .border-top {
-  position:relative;
-  margin-top:5px;
-  
-  
+	position: relative;
+	margin-top: 5px;
+
+
 }
 
 footer {
-  position:relative;
-  display: block;
- 
+	position: relative;
+	display: block;
+
 }
 
 li.nav-item.mb-0 {
-  background-color: #005688;  
+	background-color: #005688;
 }
 
 
 .text-muted {
-  --bs-text-opacity: 1;
-  font-size:1rem;
-  font-weight: 400;
-  color:white !important;
-background-color: #005688;
-text-align:center;
+	--bs-text-opacity: 1;
+	font-size: 1rem;
+	font-weight: 400;
+	color: white !important;
+	background-color: #005688;
+	text-align: center;
 
 }
 
 div.col.mb-3 {
-  color: #ffffff;
-  text-align: center;
-  padding: 10px 10px;
-  
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 10px;
+
 }
+
 .text-underline-hover:hover {
-  text-decoration:underline;
-  text-decoration-color: #00ffff;
-  text-decoration-thickness: 0.2rem;
-} 
+	text-decoration: underline;
+	text-decoration-color: #00ffff;
+	text-decoration-thickness: 0.2rem;
+}
+
 .nav-item.mb-3 {
 	margin: 5px;
-  padding: 0;
+	padding: 0;
 }
 
 /* disclaimer */
 
 div.disclaimer {
-  color: #ddd5d5;
-  font-size: 11px;
-  text-align: center;
+	color: #ddd5d5;
+	font-size: 11px;
+	text-align: center;
 }
+
 .disclaimer {
-  padding-bottom: 10px;
+	padding-bottom: 10px;
 }
