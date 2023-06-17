@@ -149,8 +149,8 @@ There is no site photo or media gallery, to display, which would have made sense
 - Signed in to Git Hub and opened my [Advice-Project Repository](https://github.com/Roly5573/Advice-Project)
 - Selected Settings and navigated to Pages under the Code and Automation menu.
 - Under the Build and Deployment menu, Deploy from a branch was chosen from the Source dropdown.
-- My Branch called main was selected, along with the root of the repository, and saved.
-- A message box informed me that the site was now deployed and live, together with the website [link.](https://roly5573.github.io/Advice-Project/)
+- My Branch called Main was selected, along with the root of the repository, and saved.
+- A message box informed me that the site was now deployed and LIVE, together with the website [link.](https://roly5573.github.io/Advice-Project/)
 
 # Testing
 - Website was continuously checked during development using the relevant Tools from Google Chrome, Microsoft Edge, Firefox, and Opera. (I had no access to the Apple Safari Browser).
