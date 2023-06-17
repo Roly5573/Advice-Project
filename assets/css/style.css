@@ -181,42 +181,40 @@ a.dropdown-item {
 
 
 .link {
-  color: aliceblue;
-  opacity: 80%;
+	color: #f8f9fa;
+	opacity: 80%;
 }
 
 a:hover {
-  color: aqua;
+	color:#00ffff;
 }
+
 .d-flex {
-  display: flex!important;
-  margin-right: 10px;
-  margin-left: 10px;
-  padding-top:5px;
+	display: flex !important;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-top: 5px;
 }
 
 .center {
-  text-align: center;
-  margin-top: 10px;
+	text-align: center;
+	margin-top: 10px;
 }
 
 .center a {
-  color:#ffffff
-  
+	color: #ffffff
 }
-
-
 
 .searchplaceholder {
-  font-size:small;
-  padding: 0 1px 0 1px;
-  width: 100%;
-  background-color:#e5f0e5;
-  
+	font-size: small;
+	padding: 0 1px 0 1px;
+	width: 100%;
+	background-color: #f8f9fa;
 }
+
 .address {
-  text-align:center;
-  padding: 10px;
+	text-align: center;
+	padding: 10px;
 }
 
 /* Welcome and Citizens Advice Romford Section */
