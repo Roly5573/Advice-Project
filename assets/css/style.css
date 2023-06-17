@@ -217,24 +217,29 @@ a:hover {
 	padding: 10px;
 }
 
-/* Welcome and Citizens Advice Romford Section */
-div h2 {
-  text-align: center;
+/* Welcome and About Citizens Advice Section with Table */
+h1.center {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #ffffff;
 }
- 
+
 .center-text {
-  color:#ffffff;
+	color: #ffffff;
 }
+
 .center-text p {
-  padding-left:1rem;
-  padding-right:1rem ;
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 
 table.container.table.table-bordered {
-  padding-right: 1rem;
-  font-size: small;
-  
+	padding-right: 1rem;
+	font-size: medium;
+	color: #fbbd1e;
 }
+
 
 /* Romford Section */
 
