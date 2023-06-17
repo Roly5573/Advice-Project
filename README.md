@@ -1,11 +1,11 @@
 # Advice Project
 
-This Advice in Havering website is an experimental project, which aims to be mobile friendly, providing easy access to free advice and support information, mainly for the local community. There are also important National telephone and website links.
+This Advice in Havering website is an experimental project, which aims to be mobile friendly, providing easy access to free advice and support information, mainly for the local community who live or work within the London Borough of Havering. There are also important National telephone and website links.
 ![responsive_display](assets/rmedia/am_i_responsive.png)
 
 
 
-Although the site is primarily focused on the extensive public advice services provided by Citizens Advice, there are other charity organisations within the London Borough of Havering, who offer similar assistance to the public, but none with the same extensive National support infrastructure.
+Although the site is primarily focused on the extensive public advice services provided by the Citizens Advice Service, there are other charity organisations within the London Borough of Havering, who offer similar assistance to the public, but none with the same extensive National support infrastructure.
 
 You may view my Advice in Havering website 
 [here.](https://roly5573.github.io/Advice-Project/)
@@ -49,9 +49,13 @@ You may view my Advice in Havering website
 - Making browsing and a search process easy for users.
 - Keep the website simple to navigate.
 - Take feedback and suggestions into consideration when expanding features.
+- 
 
 # Description
-The site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a collapsible responsive contact form, and footer section consisting of general advice and social media links.
+The Advice Project site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a collapsible responsive contact form, and footer section consisting of general advice and social media links.
+Using a single scrolling page, rather than several pages for sections of the website, seems to make more sense whilst navigating using a mobile or tablet device, especially as the information on offer throuhout, is related by content.
+There is no site photo or media gallery, to display, which would have made sense in either of those instances, to use more than one page.
+
 
 # Design
 - Initially I used a rough sketch to see what I wanted to achieve. 
@@ -64,7 +68,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - CSS3
 - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
 - Bootstrap Javascript CDN (Content Delivery Network). 
-- [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website.
+- [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website. Open Sans is the default choice of the Citizens Advice organisation.
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
 - Adobe Photoshop used for image refinement.
 - Used [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
@@ -91,7 +95,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 ## Header Section
 ## Navbar with Logo
 
-- A simplistic text logo for the navbar.
+- A simplistic text logo is used for the navbar.
 
 ![logo](assets/images/logo1.png)
 - Fully Responsive Navbar consisting of advice telephone number link for mobile, and dropdown links to other sections within the website.
@@ -100,7 +104,7 @@ The site consists of one fully responsive continuous scrolling page, divided int
 - Animated Hero image upon site opening.
 ![hero_image](assets/rmedia/readme_hero_image.png)
 - Photograph of a painting credited to the artist Louis Burleigh Bruhl circa 1891. 	
-- Attribution-ShareAlike (CC BY-SA 2.0).
+- Full editable rights is granted to me by the Havering Libraries Local Studies Centre - who possess the original artwork, along with others which may in the future, be utilised without restrictions.
 - A search box which integrates with the public search function on the Citizens Advice Website. Here is a link to the main [Citizens Advice Homepage.](https://www.citizensadvice.org.uk)
 - A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering.
 - The table creation was inspired by an exercise from the Bootstrap Whiskey course material. 
