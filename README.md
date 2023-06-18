@@ -28,6 +28,7 @@ You may view my Advice in Havering website
 - [Deployment](#deployment)
 - [Testing](#testing)
 - [Issues and bugs](#issues-and-bugs)
+- [Manual Testing](#manual-testing)
 - [Testing User Experience (UX)](#testing-user-experience-ux)
 - [Future Improvements](#future-improvements)
 - [Credits and Acknowledgements](#credits-and-acknowledgements)
@@ -191,6 +192,18 @@ There is no site photo or media gallery, to display, which would have made sense
  ![iphone5_chrome](assets/rmedia/readme_chrome_false_responsive_check.png) 
 - I have tried Chrome on other devices without any issues with any screen sizes. It happens with some online checks also.
 - Initial contact form attempts using a Bootstrap modal, were unsuccessful, and in the end I opted for the hidden space method of a dropdown, for the Contact Form.
+
+# Manual Testing
+## Browser Compatibility
+- Project site checkecked using common browsers except for Apple Safari.
+![browser_check](assets/rmedia/readme_browser_check.png)
+
+## Website Features Check
+- Website feature links checked for validity.
+![features_testing](assets/rmedia/readme_features_testing.png)
+
+
+
 # Testing User Experience (UX)
 ### First Time Visit
 1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
