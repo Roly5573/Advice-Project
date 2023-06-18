@@ -57,7 +57,7 @@ You may view my Advice in Havering website
 # Description
 The Advice Project site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a collapsible responsive contact form, and footer section consisting of general advice and social media links.
 Using a single scrolling page, rather than several pages for sections of the website, seems to make more sense whilst navigating using a mobile or tablet device, especially as the information on offer throuhout, is related by content.
-There is no photo or media gallery, to display, which would have made sense in either of those instances, to use more than one page, for this website.
+There is no photo or media gallery to display, which would have made sense in either of those instances, to use more than one page for this website.
 
 
 # Design
@@ -72,7 +72,7 @@ There is no photo or media gallery, to display, which would have made sense in e
 - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
 - Bootstrap Javascript CDN (Content Delivery Network). 
 - [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website. Open Sans is the desired choice of the Citizens Advice organisation. There was no need to use other fonts.
-- [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
+- [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for the location of Romford Library.
 - Adobe Photoshop used for image refinement.
 - Used [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
 # Files Structure
@@ -101,20 +101,20 @@ There is no photo or media gallery, to display, which would have made sense in e
 - A simplistic text logo is used for the navbar.
 
 ![logo](assets/images/logo1.png)
-- Fully Responsive Navbar consisting of advice telephone number link for mobile, and dropdown links to other sections within the website.
+- Fully Responsive Navbar consisting of an advice telephone number link for mobile use, and dropdown links to other sections contained within the website.
 ![navbar](assets/rmedia/readme_navbar.png)
 
 - Animated Hero image upon site opening.
 ![hero_image](assets/rmedia/readme_hero_image.png)
 - Photograph of a painting credited to the artist Louis Burleigh Bruhl circa 1891. 	
-- Full editable rights is granted to me by the Havering Libraries Local Studies Centre - who possess the original artwork, along with others which may in the future, be utilised without restrictions.
-- A search box which integrates with the public search function on the Citizens Advice Website. Here is a link to the main [Citizens Advice Homepage.](https://www.citizensadvice.org.uk)
-- A Welcome section including a table highlighting social issues affecting clients at Citizens Advice in Havering.
+- Full editable rights is granted to me by the Havering Libraries Local History Studies Centre - who possess the original artwork, along with others, which may in the future, be utilised without restrictions.
+- A search box that integrates with the public search function on the Citizens Advice Website. Here is a link to the main [Citizens Advice Homepage.](https://www.citizensadvice.org.uk)
+- A Welcome section, including a table highlighting social issues affecting local clients at Citizens Advice in Havering.
 - The table creation was inspired by an exercise from the Bootstrap Whiskey course material. 
  ![welcome](assets/rmedia/readme_welcome.png)
  - [Read more about Citizens Advice](https://www.citizensadvice.org.uk/about-us/about-us1/introduction-to-the-citizens-advice-service/)
  ## Introduction to Citizens Advice at Romford
-- Brief introduction to Citizens Advice in Romford including a map for directions.
+- A brief introduction to Citizens Advice in Romford including a map for directions.
 ![about_romford](assets/rmedia/readme_about_ca_romford.png)
 ## Help and Advice
 - Mostly public Citizens Advice Links which include some active Telephone Numbers available for mobile devices.
@@ -125,7 +125,7 @@ There is no photo or media gallery, to display, which would have made sense in e
 ## Cost of Living Information and Video
 - More about Citizens Advice with embedded Video and link to [Cost-of-Living Data Dashboard.](https://public.flourish.studio/story/1634399/)
 ![video](assets/rmedia/readme_video.png)
-- video can be played on device, or on Youtube via the button link.
+- video can be played on any device, or on Youtube via the button link.
 ## Havering Information
 - A very brief introduction to the London Borough of Havering.
 ![havering_info](assets/rmedia/readme_havering_info.png)
@@ -133,7 +133,7 @@ There is no photo or media gallery, to display, which would have made sense in e
 - Local services with links and Active Telephone numbers for mobile devices.
 ![local_services](assets/rmedia/readme_havering_services.png)
 # Contact Form
-- Contact form is collapsed by default, but activated by Contact/Feedback button.
+- A Contact Form which is is collapsed by default, but activated by Contact/Feedback button.
 ![contact form](assets/rmedia/readme_contact_form.png)
 - Contact form freely available and adapted for use from [formsubmit.co](https://formsubmit.co/)  
 - Name, Email Address, and Message inputs are all required for successful form submit.
@@ -166,7 +166,7 @@ There is no photo or media gallery, to display, which would have made sense in e
 ### [W3 HTML Validation Check](https://validator.w3.org/)
 - W3 HTML index.html validator check 17-06-2023
 ![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
-- W3 HTML thankyou.html validator check 17-06-2023
+- W3 HTML thankyou.html validator check 18-06-2023
 ![w3_thankyou_html_validation](assets/rmedia/readme_w3_html_page2_validator.png)
 
 ### [W3 CSS Validation Check](https://jigsaw.w3.org/css-validator/)
