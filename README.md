@@ -1,6 +1,8 @@
 # Advice Project
 
-This Advice in Havering website is an experimental project, which aims to be mobile friendly, providing easy access to free advice and support information, mainly for the local community who live or work within the London Borough of Havering. There are also important National telephone and website links.
+This Advice in Havering website is an experimental project, aiming to be mobile friendly, and providing easy access to free advice and support information, mainly for the local community who live or work within the London Borough of Havering. 
+There are also important National telephone and website links.
+The website is anticipated and to be used mostly by people on the go using a mobile device, and as such, the information and links to advice and services, are all available within a single scrolling page. Direct telephone links will not work on large screen devices.
 ![responsive_display](assets/rmedia/am_i_responsive.png)
 
 
@@ -55,7 +57,7 @@ You may view my Advice in Havering website
 # Description
 The Advice Project site consists of one fully responsive continuous scrolling page, divided into sections, starting with an animated Header image, including the navigation section with a dropdown. This is followed by the main body with advice contacts features, including a short embedded video. Finally closing with a collapsible responsive contact form, and footer section consisting of general advice and social media links.
 Using a single scrolling page, rather than several pages for sections of the website, seems to make more sense whilst navigating using a mobile or tablet device, especially as the information on offer throuhout, is related by content.
-There is no site photo or media gallery, to display, which would have made sense in either of those instances, to use more than one page.
+There is no photo or media gallery, to display, which would have made sense in either of those instances, to use more than one page, for this website.
 
 
 # Design
@@ -69,7 +71,7 @@ There is no site photo or media gallery, to display, which would have made sense
 - CSS3
 - [Bootstrap 5.2.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/) is used throughout the website.
 - Bootstrap Javascript CDN (Content Delivery Network). 
-- [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website. Open Sans is the default choice of the Citizens Advice organisation.
+- [Google Fonts](https://fonts.google.com/) Open Sans, (Sans Serif family) are used throught the website. Open Sans is the desired choice of the Citizens Advice organisation. There was no need to use other fonts.
 - [Google Maps](https://www.google.com/maps) Maps are used in the Bootstrap Cards and for location of Romford Library.
 - Adobe Photoshop used for image refinement.
 - Used [Irfan View](https://www.irfanview.com/) for easy resizing of photos.
@@ -161,13 +163,13 @@ There is no site photo or media gallery, to display, which would have made sense
 ## [Chrome DevTools ](https://developer.chrome.com/docs/devtools/)
 - Chrome DevTools used throughout the process of building the site, to test and modify html elements and css styles.
 ## W3 Validation
-## [W3 HTML Validation Check](https://validator.w3.org/)
+### [W3 HTML Validation Check](https://validator.w3.org/)
 - W3 HTML index.html validator check 17-06-2023
 ![w3_html_validation](assets/rmedia/readme_w3_html_validator.png)
 - W3 HTML thankyou.html validator check 17-06-2023
 ![w3_thankyou_html_validation](assets/rmedia/readme_w3_html_page2_validator.png)
 
-## [W3 CSS Validation Check](https://jigsaw.w3.org/css-validator/)
+### [W3 CSS Validation Check](https://jigsaw.w3.org/css-validator/)
 
 - W3 CSS validator check on 17-06-2023
 
@@ -202,8 +204,6 @@ There is no site photo or media gallery, to display, which would have made sense
 - Website feature links checked for validity.
 ![features_testing](assets/rmedia/readme_features_testing.png)
 
-
-
 # Testing User Experience (UX)
 ### First Time Visit
 1. As a First Time Visitor to the site, I would like to know whhat the purpose of the site is.
@@ -223,19 +223,21 @@ There is no site photo or media gallery, to display, which would have made sense
 1. As a Frequent User, I would like to see if there is any new contact information.
 - New contacts and information will be added once the sources can be verified.
 # Future Improvements
-- Expansion of website including other Charities and Organisations offering Free Advice.
+- Develop Advice Project into a simple Android application.
+- QR code access to the website.
+- Expansion of website to include other Charities and Organisations offering Free Advice.
 - Create a directory for the website from current public information sources for ease of access.
 - Provide links for important public announcements.
  # Credits and Acknowledgements
-## Photo Credits
+## Photo and Video Credits
 - The Hero picture is a photograph of a painting credited to the artist Louis Burleigh Bruhl circa 1891. 
-- Used from flickr by badgreeb pictures with a Creative Commons Attribution-ShareAlike (CC BY-SA 2.0).
-- Research is ongoing to find the source of the original painting.  
+- Full editable rights are granted by Havering Libraries Local History Studies Centre.  
 - All other photographs are my own, with the exception of The Havering Association for Disabled Peoples as used in the Appointments section of the website. This is from Google Maps.
+- The Cost of Living video is a Citizens Advice public service video.
 
 ## Appreciation
 - I would like to say a huge thank you to Iris at Code Institute, for endless enthusiasm, good humour, and encouragement, in her drive to get the course project completed. 
-- Also to Marcel, my mentor, whose technical insight has been instumental in guiding me throughout the project. 
+- Also to Marcel, my Mentor, whose technical insight has been instumental in guiding me throughout this project. 
 
 
  [Return to Table of Contents](#table-of-contents)
